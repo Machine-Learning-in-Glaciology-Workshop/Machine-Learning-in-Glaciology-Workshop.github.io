@@ -16,12 +16,14 @@ title: Schedule
 
 Tuesday will begin with lectures on the following topics:
 
-## Jordi Bolibar - topic
+# Technical Tools Introduction
 
-## Benjamin Robson - Glacier mapping from satellite data: a review of techniques and methodologies
+# Jordi Bolibar - topic
+
+# Benjamin Robson - Glacier mapping from satellite data: a review of techniques and methodologies
 A review of the different methods that glaciers are mapped using satellite data, starting with the simple methods such as spectral band ratios that were used to create the Norwegian glacier inventories, to the data fusion and geomorphological based methods for identifying debris-covered glaciers. The last part of the lecture will focus on both OBIA (object based image analysis), and the use of convolutional neural networks. There will also be a summary of relevant datasets which will lead into the practical.
 
-## Thomas Schellenberger - topic
+# Thomas Schellenberger - topic
 
 # Tuesday Activities
 
