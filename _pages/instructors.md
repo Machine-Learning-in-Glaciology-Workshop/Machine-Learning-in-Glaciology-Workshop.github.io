@@ -4,6 +4,8 @@ layout: page
 title: Instructors
 ---
 
+# Ellianna Abrahams
+
 # John M. Aiken
 <img src ="https://i.imgur.com/EjNd8RI.png">
 
@@ -18,6 +20,9 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 <img src="https://www.mn.uio.no/geo/english/people/aca/geohyd/regineho/regine-hock-150px.png">
 
 Regine is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
+
+# Facu Sapienza
+
 
 # Benjamin Aubrey Robson
 <img src="https://www.uib.no/sites/w3.uib.no/files/media/img_1527.jpg">
