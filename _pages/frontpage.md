@@ -35,3 +35,12 @@ b) 6 lectures (main challenges in glaciology, introduction to machine learning c
 c) Daily time to work on your project
 
 d) A mini-conference to present the results of the projects
+
+# Workshop Organizers
+
+This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
+
+<img src="/imgs/uio.png">
+<img src="/imgs/uib.png">
+<img src="/imgs/imau.png">
+<img src="/imgs/berkeley.png">
