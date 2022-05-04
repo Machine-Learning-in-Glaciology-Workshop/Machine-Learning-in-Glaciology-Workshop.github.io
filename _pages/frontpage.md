@@ -40,7 +40,7 @@ d) A mini-conference to present the results of the projects
 
 This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
 
-<img src="/imgs/uio.png">
-<img src="/imgs/uib.png">
-<img src="/imgs/imau.png">
-<img src="/imgs/berkeley.png">
+<img src="assets/imgs/uio.png">
+<img src="assets/imgs/uib.png">
+<img src="assets/imgs/imau.png">
+<img src="assets/imgs/berkeley.png">
