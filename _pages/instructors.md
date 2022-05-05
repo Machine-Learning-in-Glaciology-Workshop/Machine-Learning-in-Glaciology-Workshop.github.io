@@ -22,7 +22,7 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 Regine is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
 
 # Facundo Sapienza
-<img src="https://images.app.goo.gl/N9qSACoXwnGPm8e1A" width="150">
+<img src="https://avatars.githubusercontent.com/u/39526081?v=4" width="150">
 
 Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the University of California, Berkeley. Facu’s work includes the use of neural differential equations in the modeling of ice flow, where sub-parts of the governing differential equation can be parametrized by physical-informed proxies; feature detection algorithms in ice sheets using remote sensing data; and machine learning methods applied to paleomagnetism and planetary sciences. He is also interested in the development and communication of open-source tools for scientific computing. 
 
