@@ -25,6 +25,7 @@ header_pages:
   - _pages/instructors.md
   - _pages/projects.md
   - _pages/schedule.md
+  - _pages/glacierexcursion.md
 
 include:
     - _pages
