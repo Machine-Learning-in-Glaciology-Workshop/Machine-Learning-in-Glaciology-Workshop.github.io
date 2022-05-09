@@ -33,7 +33,7 @@ John is a postdoctoral researcher/data scientist working in the UiO Njord Centre
 <img src="https://jordibolibar.files.wordpress.com/2018/03/img_20180228_095507667_hdr.jpg" width="250">
 </div>
 <div>
-Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric Research in Utrecht University (Netherlands). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on [ODINN](https://github.com/ODINN-SciML/ODINN.jl), a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  He has also developed the ALpine Parameterized Glacier Model (ALPGM), a deep learning-based fully parameterized glacier model to simulate the evolution of alpine glaciers for past and future periods.
+Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric Research in Utrecht University (Netherlands). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  He has also developed the ALpine Parameterized Glacier Model (ALPGM), a deep learning-based fully parameterized glacier model to simulate the evolution of alpine glaciers for past and future periods.
 </div>
 </div>
 <br>
