@@ -15,7 +15,6 @@ Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning 
 </div>
 <br>
 
-
 # John M. Aiken
 <div>
 <div style="float: left; padding: 10px">
@@ -47,6 +46,9 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 Regine is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
 </div>
 </div>
+<br>
+<br>
+<br>
 <br>
 
 # Konstantin Maslov
