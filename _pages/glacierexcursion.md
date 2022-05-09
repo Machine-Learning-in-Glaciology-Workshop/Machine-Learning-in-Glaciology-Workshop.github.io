@@ -5,6 +5,9 @@ title: Glacier Excursion
 list_title: Glacier Excursion
 ---
 
+<img src="assets/imgs/glacier.jpg">
+*The outlet glacier Blåisen, Hardangerjøkulen*
+
 We will have a glacier excursion, weather permitting, so that we can explore the great natural environment that we will then return to explore through our computers.
 
 Please come prepared and bring:
