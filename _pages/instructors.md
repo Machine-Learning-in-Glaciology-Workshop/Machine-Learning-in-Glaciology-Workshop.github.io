@@ -6,7 +6,7 @@ title: Instructors
 
 # Ellianna Abrahams
 <div>
-<div style="float: left">
+<div style="float: left; padding: 10px">
 <img src="assets/imgs/ellie.jpg" width="250">
 </div>
 <div>
