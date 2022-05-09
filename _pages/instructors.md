@@ -24,6 +24,11 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 
 Regine is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
 
+# Konstantin Maslov
+<img src="assets/imgs/konstantin.jpg" width="150">
+
+Hi! My name is Konstantin. I am a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. I received my bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University. I am working on deep learning for glacier mapping and glacier mass balance estimation. My main research interests are methods of machine learning applied to Earth Observation data. Most of the time I deal with convolutional neural networks for semantic image segmentation but I am also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.
+
 # Benjamin Aubrey Robson
 <img src="https://www.uib.no/sites/w3.uib.no/files/media/img_1527.jpg" width="250">
 
