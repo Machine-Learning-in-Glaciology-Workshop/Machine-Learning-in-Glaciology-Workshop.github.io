@@ -14,6 +14,7 @@ Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning 
 </div>
 </div>
 <br>
+<br>
 
 # John M. Aiken
 <div>
