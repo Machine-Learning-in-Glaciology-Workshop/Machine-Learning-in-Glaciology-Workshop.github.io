@@ -4,12 +4,12 @@ layout: page
 title: Instructors
 ---
 
+# Ellianna Abrahams
 <div>
 <div style="float: left">
 <img src="assets/imgs/ellie.jpg" width="250">
 </div>
 <div>
-# Ellianna Abrahams
 Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning using Antarctic remote sensing datasets. Ellie’s PhD focuses on the detection of polynyas and the characterization of their time-domain properties as a population. Ellie currently works on teaching neural networks flexibility in the face of uncertain data, and has experience with Bayesian regression, deep learning, and causal inference.
 </div>
 </div>
