@@ -9,6 +9,8 @@ The primary goal of this workshop is to work on a project with one of the instru
 # Project 1 - Jordi Bolibar
 
 # Project 2 - Deriving large-scale glacier changes in Nepal - Benjamin Robson
-The practical can be upscaled with a few different possible directions. One possibility is modifying the approach to work with a larger area (for example regional mapping across a large part of Nepal) and then compare the mapping with the current GLIMS outlines. Another idea could be applying the routine to historical satellite data such as declassified Corona spy imagery to derive glacier changes.
+![000002_RIGHT](https://user-images.githubusercontent.com/52926341/168526671-50a357b4-02da-4b9d-93e3-852a71bab66a.jpg)
+
+The fundamentals in glacier mapping using CNN + OBIA from the practical can be upscaled with a few different possible directions. One possibility is modifying the approach to work with a larger area (for example regional mapping across a large part of Nepal) and then compare the mapping with the current GLIMS outlines. Another idea could be applying the routine to historical satellite data such as declassified Corona spy imagery to derive multi-temporal glacier inventories.
 
 # Project 3 - Thomas Schellenberger
