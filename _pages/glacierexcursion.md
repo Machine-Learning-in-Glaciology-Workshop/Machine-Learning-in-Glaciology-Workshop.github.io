@@ -25,3 +25,5 @@ Please come prepared and bring:
 ●  Daypack for glacier hike
 
 ●  Indoor shoes/slippers for inside
+
+We also recommend people purchase microspikes in lieu of wearing full crampons: https://kahtoola.com/traction/microspikes-footwear-traction/
