@@ -15,6 +15,9 @@ This workshop is primarily project based. You can learn more about the projects 
 This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
 
 <img src="assets/imgs/uio.png" width="300">
+
 <img src="assets/imgs/uib.png" width="300">
+
 <img src="assets/imgs/imau.png" width="400">
+
 <img src="assets/imgs/berkeley.png" width="200">
