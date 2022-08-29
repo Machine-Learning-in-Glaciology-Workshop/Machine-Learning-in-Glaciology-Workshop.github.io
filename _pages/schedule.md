@@ -12,11 +12,15 @@ title: Schedule
 | **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
+## Lectures
+
+You will find all the lecture notes in this [GitHub repository](https://github.com/Machine-Learning-in-Glaciology-Workshop/Instructor-notes). 
+
 ## Monday Lectures
 
 Monday will begin with lectures on the following topics:
 
-# [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling
+# [ Modelling ] Jordi Bolibar - [Physics-based machine learning for glacier modelling](https://github.com/Machine-Learning-in-Glaciology-Workshop/ML_for_Glacier_Modelling)
 
 [The presentation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Mass_Balance_ML_modelling/raw/main/Presentation_PhysicsBased_ML_Glaciology.pptx)
 introduces students to the general concepts of a machine learning pipeline. How to properly design a dataset, how to correctly
