@@ -12,7 +12,7 @@ title: Schedule
 | **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
-# Monday Lectures
+## Monday Lectures
 
 Monday will begin with lectures on the following topics:
 
@@ -51,7 +51,7 @@ A review of the different methods that glaciers are mapped using satellite data,
 
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
-# Tuesday - Thursday morning lectures
+## Tuesday - Thursday morning lectures
 
 # [ Statistics ] Ellianna Abrahams - CryoStats
 
