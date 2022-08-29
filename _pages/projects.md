@@ -6,7 +6,7 @@ title: Projects
 
 The primary goal of this workshop is to work on a project with one of the instructors for a week. Below you will find projects you can work on.
 
-### Project 1 [Modelling] - Modelling glacier mass balance with machine learning - *Jordi Bolibar and Facu Sapienza*
+### Project 1 [Modelling] - [Modelling glacier mass balance with machine learning](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar and Facu Sapienza*
 
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/glacier_AI_lq.png" width="400">
 
