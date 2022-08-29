@@ -55,7 +55,7 @@ An introduction on how to use the JupyterHub, Jupyter notebooks and using Git fo
 
 # [ Statistics ] Ellianna Abrahams - CryoStats
 
-The rest of the mornings will start with short friendly lectures on Statistics by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general. 
+The rest of the mornings will start with short friendly lectures on Statistics and machine learning by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general. 
 
 # [ Glaciology ] Everyone - Examples of ML in Glaciology
 
