@@ -16,7 +16,7 @@ title: Schedule
 
 Monday will begin with lectures on the following topics:
 
-## [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling
+# [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling
 
 [The presentation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Mass_Balance_ML_modelling/raw/main/Presentation_PhysicsBased_ML_Glaciology.pptx)
 introduces students to the general concepts of a machine learning pipeline. How to properly design a dataset, how to correctly
@@ -43,11 +43,11 @@ The following contents are covered:
 - **Project description**
 
 
-## [ Remote sensing ] Benjamin Robson, Konstantin Maslov and Thomas Schellenberger - Deep learning for remote sensing and glacier mapping
+# [ Remote sensing ] Benjamin Robson, Konstantin Maslov and Thomas Schellenberger - Deep learning for remote sensing and glacier mapping
 
 A review of the different methods that glaciers are mapped using satellite data, starting with the simple methods such as spectral band ratios that were used to create the Norwegian glacier inventories, to the data fusion and geomorphological based methods for identifying debris-covered glaciers. The last part of the lecture will focus on both OBIA (object based image analysis), and the use of convolutional neural networks. There will also be a summary of relevant datasets which will lead into the practical.
 
-## [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
+# [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
