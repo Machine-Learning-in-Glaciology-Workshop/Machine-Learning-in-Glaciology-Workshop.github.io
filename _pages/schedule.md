@@ -5,27 +5,49 @@ title: Schedule
 ---
 | Day           | Morning                                               | Lunch | Afternoon                                               | Dinner | Evening                   |
 |---------------|-------------------------------------------------------|-------|---------------------------------------------------------|--------|---------------------------|
-| **Sunday**    | Travel to                                             |       | Arrive at Finse Research Station                        |        | Ice breaker event, Introduction to glaciology and machine learning - Regine Hock, Dinner |
-| **Monday**    | Glacier Excursion                                     |       | Glacier Excursion                                       |        | hang out with each other  |
-| **Tuesday**   | Introductory lectures to projects                     |       | team assembly, work on activities                       |        | projects start            |
-| **Wednesday** | Standups: morning goal for projects, work on projects |       | Standups: afternoon goal for projects, work on projects |        | work on projects          |
-| **Thursday**  | Standups: morning goal for projects, work on projects |       | Standups: afternoon goal for projects, work on projects |        | work on projects          |
-| **Friday**    | work on projects, finalize results and presentation   |       | Presentation of project, go home                        |        |                           |
+| **Sunday**    | Travel to Finse                                       |       | Arrival at Finse Research Station                        |        | Ice breaker event, Dinner |
+| **Monday**    | Theoretical lectures: Modelling, remote sensing, JupyterHub + Git                                    |       | Projects start                                       |        | Chill time  |
+| **Tuesday**   | CryoStats, Examples of ML in Glaciology, morning goals for projects                     |       | Working on project                       |        | Chill time          |
+| **Wednesday** | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
+| **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
+| **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
-# Tuesday Lectures
+# Monday Lectures
 
-Tuesday will begin with lectures on the following topics:
+Monday will begin with lectures on the following topics:
 
-# Technical Tools Introduction
+## [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling
 
-# Jordi Bolibar - topic
+[The presentation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Mass_Balance_ML_modelling/raw/main/Presentation_PhysicsBased_ML_Glaciology.pptx)
+introduces students to the general concepts of a machine learning pipeline. How to properly design a dataset, how to correctly
+train models and how validate, test and understand the capabilities and limitation of the model(s). 
 
-# Benjamin Robson - Glacier mapping from satellite data: a review of techniques and methodologies
+The following contents are covered:
+
+- **Modelling the glacier system**
+  - Glacier evolution models
+  - Local vs Global glacier modelling
+  
+- **Physics-based machine learning**
+  - Machine learning pipelines
+  - Regression for physical processes
+    - Respecting physics
+      - Feature selection
+      - Data driven machine learning
+      - Physical losses or Physics-Informed Neural Networks
+      - Neural/Universal Differential Equations
+    - Trustworthy models
+      - Testing and validation
+      - Physical interpretation
+    - Being mindful about model limitations
+- **Project description**
+
+
+## [ Remote sensing ] Benjamin Robson, Konstantin Maslov and Thomas Schellenberger - Deep learning for remote sensing and glacier mapping
+
 A review of the different methods that glaciers are mapped using satellite data, starting with the simple methods such as spectral band ratios that were used to create the Norwegian glacier inventories, to the data fusion and geomorphological based methods for identifying debris-covered glaciers. The last part of the lecture will focus on both OBIA (object based image analysis), and the use of convolutional neural networks. There will also be a summary of relevant datasets which will lead into the practical.
 
-# Thomas Schellenberger - topic
+## [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
-# Tuesday Activities
-
-Tuesday will also have introductory activities for each project along with an introduction to using the JupyterHub provided by 
+An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
