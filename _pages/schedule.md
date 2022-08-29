@@ -51,3 +51,12 @@ A review of the different methods that glaciers are mapped using satellite data,
 
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
+# Tuesday - Thursday morning lectures
+
+# [ Statistics ] Ellianna Abrahams - CryoStats
+
+The rest of the mornings will start with short friendly lectures on Statistics by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general. 
+
+# [ Glaciology ] Everyone - Examples of ML in Glaciology
+
+The goal of this section will be for instructors to give short 15-minute presentations showing applications of ML in glaciology from their research. Students will aslo be able to give short presentations of their work (around 5 minutes). If they wish to present something longer, please contact us in advance. 
