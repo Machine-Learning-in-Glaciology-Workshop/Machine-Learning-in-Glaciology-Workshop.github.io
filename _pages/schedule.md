@@ -61,7 +61,7 @@ The three presentations will cover:
   - Intro to ML image classification
   - Random Forest
   - Deep learning
-- **Cryospheric Mapping with Remote Sensing - an overview of the problems, data and methods (with a focus on OBIA and debris-covered glaciers** (B. Robson)
+- **Cryospheric Mapping with Remote Sensing - an overview of the problems, data and methods with a focus on OBIA and debris-covered glaciers** (B. Robson)
   - Object based image analysis
   - Mapping debris-covered glaciers
 
