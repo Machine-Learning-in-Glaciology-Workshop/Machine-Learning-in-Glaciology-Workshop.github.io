@@ -64,6 +64,7 @@ The three presentations will cover:
 - **Cryospheric Mapping with Remote Sensing - an overview of the problems, data and methods with a focus on OBIA and debris-covered glaciers** (B. Robson)
   - Object based image analysis
   - Mapping debris-covered glaciers
+- **Project description**
 
 # [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
