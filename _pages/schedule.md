@@ -51,6 +51,11 @@ The following contents are covered:
 
 A review of the different methods that glaciers are mapped using satellite data, starting with the simple methods such as spectral band ratios that were used to create the Norwegian glacier inventories, to the data fusion and geomorphological based methods for identifying debris-covered glaciers. The last part of the lecture will focus on both OBIA (object based image analysis), and the use of convolutional neural networks. There will also be a summary of relevant datasets which will lead into the practical.
 
+The three presentations will cover 
+1. Remote Sensing in Glaciology Remote Sensing in Glaciology – the traditional basics
+2. Random Forest and Deep learning image classification for Glacier Mapping
+3. Cryospheric Mapping with Remote Sensing - an overview of the problems, data and methods (with a focus on OBIA and debris-covered glaciers
+
 # [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
