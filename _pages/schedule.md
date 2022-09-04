@@ -57,7 +57,7 @@ The three presentations will cover:
   - Glacier extend mapping
   - Glacier zone mapping
   - Challenges
-- **Random Forest and Deep learning image classification for Glacier Mapping** (K. Maslov)
+- [**Random Forest and Deep learning image classification for Glacier Mapping**](https://github.com/Machine-Learning-in-Glaciology-Workshop/Glacier-Mapping-with-Deep-Learning/blob/main/Deep%20Learning%20for%20Glacier%20Mapping.pdf) (K. Maslov)
   - Intro to ML image classification
   - Random Forest
   - Deep learning
