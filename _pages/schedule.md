@@ -8,7 +8,7 @@ title: Schedule
 | **Sunday**    | Travel to Finse                                       |       | Arrival at Finse Research Station                        |        | Ice breaker event, Dinner |
 | **Monday**    | Theoretical lectures: Modelling, remote sensing, JupyterHub + Git                                    |       | Projects start                                       |        | Chill time  |
 | **Tuesday**   | CryoStats, Examples of ML in Glaciology, morning goals for projects                     |       | Working on project                       |        | Chill time          |
-| **Wednesday** | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
+| **Wednesday** | Glacier excursion |       | Glacier excursion / working on projects |        | Chill time          |
 | **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
