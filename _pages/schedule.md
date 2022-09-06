@@ -14,7 +14,7 @@ title: Schedule
 
 ## Lectures
 
-You will find all the lecture notes in this [GitHub repository](https://github.com/Machine-Learning-in-Glaciology-Workshop/Instructor-notes). 
+You will find all the lecture notes in this [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html). If you wish to suggest any changes (any typo corrections or improvements are welcome!), you can do so in the following [GitHub repository](https://github.com/Machine-Learning-in-Glaciology-Workshop/Instructor-notes). 
 
 ## Monday Lectures
 
