@@ -10,6 +10,10 @@ This workshop is designed to connect early career researchers (<7 years since yo
 
 This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 
+## 2022 edition
+
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0615.jpg?raw=true" width="700"> <br>
+
 # Workshop Organizers
 
 This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
