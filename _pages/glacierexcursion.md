@@ -5,9 +5,9 @@ title: Glacier Excursion
 list_title: Glacier Excursion
 ---
 
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0607.jpg" width="700"> <br>
+<img src="assets/imgs/DJI_0607.jpg" width="700"> <br>
 
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0608.jpg" width="700"> <br>
+<img src="assets/imgs/DJI_0608.jpg" width="700"> <br>
 
 <img src="assets/imgs/glacier.jpg">
 *The outlet glacier Blåisen, Hardangerjøkulen*
