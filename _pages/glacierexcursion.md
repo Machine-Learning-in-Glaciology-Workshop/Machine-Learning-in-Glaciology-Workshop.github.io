@@ -5,12 +5,13 @@ title: Glacier Excursion
 list_title: Glacier Excursion
 ---
 
+### 2022 edition
+
 <img src="assets/imgs/DJI_0607.jpg" width="700"> <br>
 
 <img src="assets/imgs/DJI_0608.jpg" width="700"> <br>
 
-<img src="assets/imgs/glacier.jpg">
-*The outlet glacier Blåisen, Hardangerjøkulen*
+*The outlet glacier Middalen, Hardangerjøkulen*
 
 We will have a glacier excursion, weather permitting, so that we can explore the great natural environment that we will then return to explore through our computers.
 
