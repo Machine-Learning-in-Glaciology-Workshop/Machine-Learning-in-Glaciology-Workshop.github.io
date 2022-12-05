@@ -22,10 +22,6 @@ The final schedule for the 2023 edition will be provided later on.
 
 You will find all the lecture notes in this [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html). If you wish to suggest any changes (any typo corrections or improvements are welcome!), you can do so in the following [GitHub repository](https://github.com/Machine-Learning-in-Glaciology-Workshop/Instructor-notes). 
 
-## Monday Lectures
-
-Monday will begin with lectures on the following topics:
-
 # [ Modelling ] Jordi Bolibar - [Physics-based machine learning for glacier modelling](https://github.com/Machine-Learning-in-Glaciology-Workshop/ML_for_Glacier_Modelling)
 
 [The presentation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Mass_Balance_ML_modelling/raw/main/Presentation_PhysicsBased_ML_Glaciology.pptx)
@@ -75,8 +71,6 @@ The three presentations will cover:
 # [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
-
-## Tuesday - Thursday morning lectures
 
 # [ Statistics ] Ellianna Abrahams - CryoStats
 
