@@ -17,17 +17,6 @@ Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning 
 <br>
 <br>
 
-# John M. Aiken
-<div>
-<div style="float: left; padding: 10px">
-<img src ="https://i.imgur.com/EjNd8RI.png" width="250">
-</div>
-<div>
-John is a postdoctoral researcher/data scientist working in the UiO Njord Centre for Studies of the Physics of the Earth. His research background has focused on integrating ML within the problem spaces of seismology/geophysics, glaciology, and social science. These works include predicting fracture development in laboratory experiments, investigating instabilities on glaciers, image analysis of rock core samples to assess CO2 injection sites, detecting cracking events due to fluid motion, and predicting university student decision making. John brings a strong focus on integrating ML into physical based projects.
-</div>
-</div>
-<br>
-
 # Jordi Bolibar
 <div>
 <div style="float: left; padding: 10px">
@@ -64,6 +53,18 @@ Hi! My name is Konstantin. I am a PhD student at the Faculty of Geo-Information 
 </div>
 </div>
 <br>
+
+# Fernando Pérez
+<div>
+<div style="float: left; padding: 10px">
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/fernando_perez_-_photo_square.png?raw=true" width="250">
+</div>
+<div>
+Fernando Pérez is an assistant professor in Statistics at UC Berkeley and a Faculty Scientist in the Department of Data Science and Technology at Lawrence Berkeley National Laboratory. After completing a PhD in particle physics at the University of Colorado at Boulder, his postdoctoral research in applied mathematics centered on the development of fast algorithms for the solution of partial differential equations in multiple dimensions.  Today, his research focuses on creating tools for modern computational research and data science across domain disciplines, with an emphasis on high-level languages, interactive and literate computing, and reproducible research.  He created IPython while a graduate student in 2001 and co-founded its successor, Project Jupyter. The Jupyter team collaborates openly to create the next generation of tools for human-driven computational exploration, data analysis, scientific insight and education.
+</div>
+</div>
+<br>
+
 
 # Benjamin Aubrey Robson
 <div>
