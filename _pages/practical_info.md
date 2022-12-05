@@ -1,6 +1,6 @@
 ---
-permalink: /
-layout: practicalinfo
+permalink: /practicalinfo
+layout: page
 title: Practical information
 list_title: Practical information
 ---
