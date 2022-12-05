@@ -1,6 +1,6 @@
 ---
 permalink: /outdoor
-layout: home
+layout: page
 title: Outdoor activities
 list_title: Outdoor activities
 ---
