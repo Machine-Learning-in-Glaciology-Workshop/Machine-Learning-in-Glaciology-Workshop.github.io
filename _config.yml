@@ -1,6 +1,5 @@
-title: ML in Glaciology Workshop 2022 - Finse Research Station
-description: A project based workshop focusing on ML and Glaciology
-author: "John M. Aiken"
+title: ML in Glaciology Workshop 2023 - Finse Research Station (Norway)
+description: A project-based workshop focusing on ML and Glaciology
 
 theme: minima
 
@@ -22,10 +21,11 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
+  - _pages/practical_info.md
   - _pages/instructors.md
   - _pages/projects.md
   - _pages/schedule.md
-  - _pages/glacierexcursion.md
+  - _pages/outdoor.md
 
 include:
     - _pages
