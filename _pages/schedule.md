@@ -3,6 +3,10 @@ permalink: /schedule
 layout: page
 title: Schedule
 ---
+
+The final schedule for the 2023 edition will be provided later on. 
+
+<!---
 | Day           | Morning                                               | Lunch | Afternoon                                               | Dinner | Evening                   |
 |---------------|-------------------------------------------------------|-------|---------------------------------------------------------|--------|---------------------------|
 | **Sunday**    | Travel to Finse                                       |       | Arrival at Finse Research Station                        |        | Ice breaker event, Dinner |
@@ -11,6 +15,8 @@ title: Schedule
 | **Wednesday** | Glacier excursion |       | Glacier excursion / working on projects |        | Chill time          |
 | **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
+
+-->
 
 ## Lectures
 
