@@ -20,6 +20,6 @@ The goal of this project will be to learn and apply different types of machine l
 
 The students will have the possibility to learn how to map glaciers in Svalbard, the Alps and Pakistan from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks and random forests. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
 
-### [ Project X ] - Bringing your own project - *coordinated by Ellianna Abrahams*
+### [ Project 2 ] - Bringing your own project - *coordinated by Ellianna Abrahams*
 
 Bringing your own project requires planning and an achievable goal for the workshop. In order to do so, we would ask the participant to share a short explanation of the project, its current status and the objectives for the workshop in the application form. Teaming up with other participants for a project is highly recommended, in order to foster interactions and create collaborations. 
