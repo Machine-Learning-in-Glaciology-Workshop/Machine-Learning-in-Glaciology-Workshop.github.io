@@ -9,10 +9,6 @@ list_title: Practical information
 ## Registration
 If you wish to participate in the workshop, please fill out the following form latest by 9 January 2023. Accepted participants will be informed per email latest by the end of January. We will announce here when the selection has been made.
 
-## Computing environment
-
-The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by CloudFerro (https://cloudferro.com/en/) and applicants will have access to the EO data archive on CREODIAS (https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available with all data and dependencies already pre-installed.
-
 ## Who can participate?
 
 Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python or Julia) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. 
@@ -20,6 +16,10 @@ Anyone interested in using machine learning techniques in glaciology. Some exper
 ## Costs
 
 Costs for registration, housing (5 nights) and all meals (breakfast, lunch, dinner and snacks/coffee) at Finse Research Station fee will be approx. 7000 NOK (Norwegian Krones = approx. 700 Euros/US$). The fee may be lower (esp. for Norwegian-based participants) pending our success in receiving external funding. Travel grants are not available for foreign participants. Accepted participants must pay a non-refundable registration fee of 400 NOK latest by 15 February 2023. The rest of the fee must be paid latest by 3 April 2023. Refund policy for cancellations: 100% of total fee until 3 April 24:00 (CET), 50% until 6 April 24:00, 10% after 7 April 00:00).
+
+## Computing environment
+
+The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by CloudFerro (https://cloudferro.com/en/) and applicants will have access to the EO data archive on CREODIAS (https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available with all data and dependencies already pre-installed.
 
 ## Location
 The workshop will be held at the Finse Alpine Research Center run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. In April there will be lots of snow and temperatures can be well below freezing with high winds.
