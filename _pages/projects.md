@@ -4,7 +4,7 @@ layout: page
 title: Projects
 ---
 
-The primary goal of this workshop is to work on a project with one of the instructors for a week. Below you will find projects you can work on.
+The primary goal of this workshop is to work on a project with one of the instructors for a week. There are three options for participants: you can either join one of the two pre-established projects, meant to learn the basics of machine learning applied to glacier modelling or remote sensing, or you can bring your own project. 
 
 ### Project 1 [Modelling] - [Modelling glacier mass balance with machine learning](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar and Facu Sapienza*
 
@@ -21,3 +21,7 @@ The goal of this project will be to learn and apply different types of machine l
 The fundamentals in glacier mapping using CNN + OBIA from the practical can be upscaled with a few different possible directions. One possibility is modifying the approach to work with a larger area (for example regional mapping across a large part of Nepal) and then compare the mapping with the current GLIMS outlines. Another idea could be applying the routine to historical satellite data such as declassified Corona spy imagery to derive multi-temporal glacier inventories.
 
 The students will have the possibility to learn how to map debris-covered glaciers in Pakistan and the Alps from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
+
+### Bringing your own project
+
+Bringing your own project requires planning and an achievable goal for the workshop. In order to do so, we would ask the participant to share a short explanation of the project, its current status and the objectives for the workshop. Teaming up with other participants for a project is highly recommended, in order to foster interactions and create collaborations. 
