@@ -21,9 +21,9 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/practical_info.md
-  - _pages/instructors.md
   - _pages/projects.md
+  - _pages/instructors.md
+  - _pages/practical_info.md
   - _pages/schedule.md
 
 
