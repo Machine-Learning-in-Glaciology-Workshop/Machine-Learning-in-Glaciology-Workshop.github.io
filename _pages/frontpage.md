@@ -13,7 +13,7 @@ This workshop is primarily project based. You can learn more about the projects 
 # Workshop Organizers
 
 And has been organized by the following institutions:
-<img src="assets/imgs/uio.png" width="300"> <br>
+<br>
 
 <img src="assets/imgs/02_uio_full_logo_eng_pos.jpg" width="300"> <br>
 
