@@ -35,7 +35,7 @@ The workshop will include:
 - Mini-conference (2 hours) where all participants present the results from their projects.
 - Free afternoon for outdoor activities (skiing, snow-shoeing).
 
-# Registration
+# Application
 
 If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. 
 
