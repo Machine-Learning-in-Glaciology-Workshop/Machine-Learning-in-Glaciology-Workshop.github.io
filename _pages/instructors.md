@@ -40,8 +40,6 @@ Regine is a hydrologist and glaciologist using modeling and field data to assess
 <br>
 <br>
 <br>
-<br>
-<br>
 
 # Konstantin Maslov
 <div>
@@ -52,6 +50,8 @@ Regine is a hydrologist and glaciologist using modeling and field data to assess
 Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working glacier mapping and glacier mass balance estimation using deep learning.
 </div>
 </div>
+<br>
+<br>
 <br>
 
 # Benjamin Aubrey Robson
@@ -64,6 +64,8 @@ Ben’s research is focused on using remote sensing datasets to understand glaci
 </div>
 </div>
 <br>
+<br>
+<br>
 
 # Facundo Sapienza
 <div>
@@ -74,6 +76,8 @@ Ben’s research is focused on using remote sensing datasets to understand glaci
 Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the University of California, Berkeley. Facu’s work includes the use of neural differential equations in the modeling of ice flow, where sub-parts of the governing differential equation can be parametrized by physical-informed proxies; feature detection algorithms in ice sheets using remote sensing data; and machine learning methods applied to paleomagnetism and planetary sciences. He is also interested in the development and communication of open-source tools for scientific computing. 
 </div>
 </div>
+<br>
+<br>
 <br>
 
 # Thomas Schellenberger
