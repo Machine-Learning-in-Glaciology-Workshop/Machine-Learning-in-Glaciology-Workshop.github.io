@@ -6,7 +6,7 @@ list_title: Practical information
 ---
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse2014_0.jpg?raw=true" width="700">
 
-## Registration
+## Application
 If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. Accepted participants will be informed per email latest by the beginning of February. We will announce here when the selection has been made.
 
 ## Who can participate?
