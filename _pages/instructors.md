@@ -54,18 +54,6 @@ Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth 
 </div>
 <br>
 
-# Fernando Pérez
-<div>
-<div style="float: left; padding: 10px">
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/fernando_perez_-_photo_square.png?raw=true" width="150">
-</div>
-<div>
-Fernando Pérez is an assistant professor in Statistics at UC Berkeley and a Faculty Scientist in the Department of Data Science and Technology at Lawrence Berkeley National Laboratory. After completing a PhD in particle physics at the University of Colorado at Boulder, his postdoctoral research in applied mathematics centered on the development of fast algorithms for the solution of partial differential equations in multiple dimensions.  Today, his research focuses on creating tools for modern computational research and data science across domain disciplines, with an emphasis on high-level languages, interactive and literate computing, and reproducible research.  He created IPython while a graduate student in 2001 and co-founded its successor, Project Jupyter. The Jupyter team collaborates openly to create the next generation of tools for human-driven computational exploration, data analysis, scientific insight and education.
-</div>
-</div>
-<br>
-
-
 # Benjamin Aubrey Robson
 <div>
 <div style="float: left; padding: 10px">
@@ -94,6 +82,6 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2016/pdf/schellenberger150px.jpg" width="150">
 </div>
 <div>
-Thomas investigates the dynamics of glaciers using remote observation data using SAR and optical satellite data. He uses the SAR satellite data to extract glacier velocities of all fast flowing glaciers and changes in their extend. From these data it is possible to estimate the iceberg production of the glaciers which terminate in the sea. Thomas currently is working on using machine learning to identify glacier extents and estimate glacier mass balance using remote sensing data.
+Thomas investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
 </div>
 </div>
