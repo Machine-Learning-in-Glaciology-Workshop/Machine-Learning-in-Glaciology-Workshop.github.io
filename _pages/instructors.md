@@ -49,7 +49,7 @@ Regine is a hydrologist and glaciologist using modeling and field data to assess
 <img src="assets/imgs/konstantin.jpg" width="150">
 </div>
 <div>
-Hi! My name is Konstantin. I am a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. I received my bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University. I am working on deep learning for glacier mapping and glacier mass balance estimation. My main research interests are methods of machine learning applied to Earth Observation data. Most of the time I deal with convolutional neural networks for semantic image segmentation but I am also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.
+Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working glacier mapping and glacier mass balance estimation using deep learning.
 </div>
 </div>
 <br>
@@ -94,6 +94,6 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2016/pdf/schellenberger150px.jpg" width="150">
 </div>
 <div>
-Thomas investigates the dynamics of glaciers using remote observation data using satellites such as  TerraSAR-X and Radarsat-2. He uses the radar satellite data to extract glacier velocities of all fast flowing glaciers and changes in their extend. From these data it is possible to estimate the iceberg production of the glaciers which terminate in the sea. Thomas currently is working on using machine learning to identify glacier extents using remote sensing data.
+Thomas investigates the dynamics of glaciers using remote observation data using SAR and optical satellite data. He uses the SAR satellite data to extract glacier velocities of all fast flowing glaciers and changes in their extend. From these data it is possible to estimate the iceberg production of the glaciers which terminate in the sea. Thomas currently is working on using machine learning to identify glacier extents and estimate glacier mass balance using remote sensing data.
 </div>
 </div>
