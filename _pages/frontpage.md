@@ -13,14 +13,17 @@ This workshop is primarily project based. You can learn more about the projects 
 # Workshop Organizers
 
 And has been organized by the following institutions:
-
 <img src="assets/imgs/uio.png" width="300"> <br>
 
+<img src="assets/imgs/02_uio_full_logo_eng_pos.jpg" width="300"> <br>
+
 <img src="assets/imgs/uib.png" width="300"> <br>
+
 <img src="assets/imgs/UiBlogo_Eng_white_left.png" width="300"> <br> 
+
 <img src="assets/imgs/imau.png" width="400"> <br>
 
-<img src="assets/imgs/berkeley.png" width="200">
+<img src="assets/imgs/berkeley.png" width="200"> <br>
 
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 
