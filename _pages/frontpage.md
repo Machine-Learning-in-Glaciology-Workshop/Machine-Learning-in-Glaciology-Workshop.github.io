@@ -14,12 +14,9 @@ This workshop is primarily project based. You can learn more about the projects 
 
 And has been organized by the following institutions:
 <br>
-
-<img src="assets/imgs/02_uio_full_logo_eng_pos.jpg" width="300"> <br>
+<img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
 
 <img src="assets/imgs/uib.png" width="300"> <br>
-
-<img src="assets/imgs/UiBlogo_Eng_white_left.png" width="300"> <br> 
 
 <img src="assets/imgs/imau.png" width="400"> <br>
 
