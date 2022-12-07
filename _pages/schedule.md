@@ -24,7 +24,7 @@ more to be announced...
  
 [ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
-[ Bring your own idea and data ] 
+[ Bringing your own project ] 
 
 
 ## Outdoor activity
