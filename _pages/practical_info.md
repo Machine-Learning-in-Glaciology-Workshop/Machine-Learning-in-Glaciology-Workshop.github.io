@@ -32,7 +32,7 @@ From the airport you need to take a train to the central train station (Oslo S) 
 - Flytoget (flight train), fastest, ca. 20 minutes, 220 NOK
 - "Normal" train by company ´vy´, ca. 30 minutes, 115 NOK. This train may actually get you faster to Oslo depending when you get there since it goes more often. Trains R10, R11 and L12 go to Oslo.
  
-You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://flytoget.no/en/). From the ticket counter/machines it is a 2 minute walk to the platform (down the escalator).
+You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://flytoget.no/en/)). From the ticket counter/machines it is a 2 minute walk to the platform (down the escalator).
  
 # Airport Flesland to Bergen
 Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
