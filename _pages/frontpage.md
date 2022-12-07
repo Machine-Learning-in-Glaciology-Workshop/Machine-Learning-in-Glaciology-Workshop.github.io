@@ -12,7 +12,7 @@ This workshop is primarily project based. You can learn more about the projects 
 
 # Workshop Organizers
 
-This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
+And has been organized by the following institutions:
 
 <img src="assets/imgs/uio.png" width="300"> <br>
 
@@ -22,6 +22,10 @@ This project has been supported by the Research Council of Norway (Project No. 3
 
 <img src="assets/imgs/berkeley.png" width="200">
 
+The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>
+
 # Agenda
 
 The workshop will include:
@@ -29,13 +33,11 @@ The workshop will include:
 - Lectures on machine learning, JupyterHub + Git and related topics (ca. 1 day)
 - Hands-on project work: Participants will work on of [two pre-defined](https://machine-learning-in-glaciology-workshop.github.io/projects) projects ("Modelling glacier mass balance with machine learning“, or “Glacier mapping from satellite data using Deep Learning and Random Forests”) or may also design their own project based on their own data in collaboration with the instructors in a “hackathon-type” fashion. 
 - Mini-conference (2 hours) where all participants present the results from their projects.
-- Free afternoon for outdoor activities (skiing, snow-shoeing)
+- Free afternoon for outdoor activities (skiing, snow-shoeing).
 
 # Registration
 
 If you wish to participate in the workshop, please fill out the following form latest by 9 January 2023. Accepted participants will be informed per email latest by the end of January. We will announce here when the selection has been made.
 
-# Past editions
-## 2022
-
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0615.jpg?raw=true" width="600"> <br>
+Group photo taken on Hardangerjokulen during the first edition of the training workshop in September 2022.
