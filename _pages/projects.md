@@ -18,9 +18,7 @@ The goal of this project will be to learn and apply different types of machine l
 
 <!-- <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/engabreen_VI_sentinel-1_white-mesh_2000x632.jpg" width="800"> -->
 
-The fundamentals in glacier mapping using CNN + OBIA from the practical can be upscaled with a few different possible directions. One possibility is modifying the approach to work with a larger area (for example regional mapping across a large part of Nepal) and then compare the mapping with the current GLIMS outlines. Another idea could be applying the routine to historical satellite data such as declassified Corona spy imagery to derive multi-temporal glacier inventories.
-
-The students will have the possibility to learn how to map debris-covered glaciers in Pakistan and the Alps from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
+The students will have the possibility to learn how to map glaciers in Svalbard, the Alps and Pakistan from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks and random forests. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
 
 ### [ Project X ] - Bringing your own project - *coordinated by Ellianna Abrahams*
 
