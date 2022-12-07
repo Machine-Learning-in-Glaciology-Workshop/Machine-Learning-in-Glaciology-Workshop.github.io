@@ -16,6 +16,8 @@ The goal of this project will be to learn and apply different types of machine l
 </div>
 </div>
 <br>
+<br>
+<br>
   
 ### [ Project 2 ] - [Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests](https://github.com/Machine-Learning-in-Glaciology-Workshop/Glacier-Mapping-with-Deep-Learning) - *Konstantin Maslov and Thomas Schellenberger* 
 <div>
@@ -26,6 +28,8 @@ The goal of this project will be to learn and apply different types of machine l
 The students will have the possibility to learn how to map glaciers in Svalbard, the Alps and Pakistan from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks and random forests. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
 </div>
 </div>
+<br>
+<br>
 <br>
 
 ### [ Project X ] - Bringing your own project - *coordinated by Ellianna Abrahams*
