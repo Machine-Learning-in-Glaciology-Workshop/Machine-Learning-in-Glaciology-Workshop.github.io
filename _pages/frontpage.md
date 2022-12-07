@@ -17,7 +17,7 @@ And has been organized by the following institutions:
 <img src="assets/imgs/uio.png" width="300"> <br>
 
 <img src="assets/imgs/uib.png" width="300"> <br>
-
+<img src="assets/imgs/UiBlogo_Eng_white_left.png" width="300"> <br> 
 <img src="assets/imgs/imau.png" width="400"> <br>
 
 <img src="assets/imgs/berkeley.png" width="200">
