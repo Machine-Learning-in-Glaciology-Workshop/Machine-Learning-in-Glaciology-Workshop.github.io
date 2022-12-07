@@ -9,20 +9,22 @@ The final schedule for the 2023 edition will be provided later on.
 
 ## Lectures
 
-# [Intro to Machine Learning] tba
+[ Intro to Machine Learning ] tba 
 
-# [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling.
+[ Modelling ] Jordi Bolibar - (Physics-based) machine learning for glacier modelling.
 
-# [ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+[ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+
+more to be announced...
 
 
 ## Projects
 
-# [ Modelling ] Modelling glacier mass balance with machine learning.
+[ Modelling ] Modelling glacier mass balance with machine learning.
  
-# [ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+[ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
-# [Bring your own idea and data] 
+[ Bring your own idea and data ] 
 
 
 ## Outdoor activity
