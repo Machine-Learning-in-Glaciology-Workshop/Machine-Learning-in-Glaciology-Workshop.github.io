@@ -6,6 +6,41 @@ title: Schedule
 
 The final schedule for the 2023 edition will be provided later on. 
 
+
+## Lectures
+
+# [Intro to Machine Learning] tba
+
+# [ Modelling ] Jordi Bolibar - Physics-based machine learning for glacier modelling.
+
+# [ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+
+
+## Projects
+
+# [ Modelling ] Modelling glacier mass balance with machine learning.
+ 
+# [ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+
+# [Bring your own idea and data] 
+
+
+## Outdoor activity
+2023 edition - This year's edition will be by early spring, with still a lot of snow in Finse.
+We reserve one afternoon for self-organized outdoor activities, so please bring:
+
+Head lamp/ flashlight (there are no streetlights)
+Best to use a backpack for all your belongings.
+Consider bringing cross-country skis or snow shoes.
+Sun glasses.
+Warm clothes, hat, gloves, scarf etc (there will be lots of snow).
+Boots suitable to walk in deep snow.
+Make sure you have appropriate health insurance.
+Any personal medication.
+Special foods (no grocery store in Finse).
+
+
+
 <!---
 | Day           | Morning                                               | Lunch | Afternoon                                               | Dinner | Evening                   |
 |---------------|-------------------------------------------------------|-------|---------------------------------------------------------|--------|---------------------------|
@@ -17,6 +52,8 @@ The final schedule for the 2023 edition will be provided later on.
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
 -->
+
+<!---
 
 ## Lectures
 
@@ -47,9 +84,10 @@ The following contents are covered:
       - Physical interpretation
     - Being mindful about model limitations
 - **Project description**
+-->
 
-
-# [ Remote sensing ] Benjamin Robson, Konstantin Maslov and Thomas Schellenberger - Deep learning for remote sensing and glacier mapping
+<!---
+# [ Remote sensing ] Benjamin Robson, Konstantin Maslov and Thomas Schellenberger - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
 A review of the different methods that glaciers are mapped using satellite data, starting with the simple methods such as spectral band ratios that were used to create the Norwegian glacier inventories, to the data fusion and geomorphological based methods for identifying debris-covered glaciers. The last part of the lecture will focus on both OBIA (object based image analysis), and the use of convolutional neural networks. There will also be a summary of relevant datasets which will lead into the practical.
 
@@ -68,14 +106,18 @@ The three presentations will cover:
   - Mapping debris-covered glaciers
 - **Project description**
 
-# [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 
+# [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
 # [ Statistics ] Ellianna Abrahams - CryoStats
-
-The rest of the mornings will start with short friendly lectures on Statistics and machine learning by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general. 
+The rest of the mornings will start with short friendly lectures on Statistics and machine learning by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general.
 
 # [ Glaciology ] Everyone - Examples of ML in Glaciology
+The goal of this section will be for instructors to give short 15-minute presentations showing applications of ML in glaciology from their research. Students will aslo be able to give short presentations of their work (around 5 minutes). If they wish to present something longer, please contact us in advance.
 
-The goal of this section will be for instructors to give short 15-minute presentations showing applications of ML in glaciology from their research. Students will aslo be able to give short presentations of their work (around 5 minutes). If they wish to present something longer, please contact us in advance. 
+# [ Emulators ]
+
+-->
+
+
