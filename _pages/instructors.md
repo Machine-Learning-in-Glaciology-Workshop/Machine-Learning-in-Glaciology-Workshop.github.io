@@ -17,7 +17,7 @@ Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning 
 <br>
 <br>
 
-# Jordi Bolibar
+# [Jordi Bolibar](https://jordibolibar.wordpress.com/)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://jordibolibar.files.wordpress.com/2018/03/img_20180228_095507667_hdr.jpg" width="150">
@@ -27,14 +27,16 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 </div>
 </div>
 <br>
+<br>
+<br>
 
-# Regine Hock 
+# [Regine Hock](https://www.mn.uio.no/geo/english/people/aca/geohyd/regineho/index.html)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://www.mn.uio.no/geo/english/people/aca/geohyd/regineho/regine-hock-150px.png" width="150">
 </div>
 <div>
-Regine is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
+Regine is a Professor at the University of Oslo. She is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
 </div>
 </div>
 <br>
@@ -54,13 +56,13 @@ Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth 
 <br>
 <br>
 
-# Benjamin Aubrey Robson
+# [Benjamin Aubrey Robson](https://www.uib.no/en/persons/Benjamin.Aubrey.Robson)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://www.uib.no/sites/w3.uib.no/files/media/img_1527.jpg" width="150">
 </div>
 <div>
-Ben’s research is focused on using remote sensing datasets to understand glacial and periglacial landscapes and how they have been changing. I use a variety of remote sensing techniques including object-based image analysis (OBIA), photogrammetry and DEM comparison, structure from motion (SfM), LiDAR and time-series analysis. I'm active in research in the Nepali Himalayas, European Alps, Norwegian mainland, and the Tien Shan mountains.
+Ben is an Associate Professor at the University of Bergen. Ben’s research is focused on using remote sensing datasets to understand glacial and periglacial landscapes and how they have been changing. I use a variety of remote sensing techniques including object-based image analysis (OBIA), photogrammetry and DEM comparison, structure from motion (SfM), LiDAR and time-series analysis. I'm active in research in the Nepali Himalayas, European Alps, Norwegian mainland, and the Tien Shan mountains.
 </div>
 </div>
 <br>
@@ -80,12 +82,12 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 <br>
 <br>
 
-# Thomas Schellenberger
+# [Thomas Schellenberger](https://www.mn.uio.no/geo/english/people/aca/geohyd/thosche/index.html)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2016/pdf/schellenberger150px.jpg" width="150">
 </div>
 <div>
-Thomas investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
+Thomas is a researcher at the University of Oslo. He investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
 </div>
 </div>
