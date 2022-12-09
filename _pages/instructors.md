@@ -4,7 +4,7 @@ layout: page
 title: Instructors
 ---
 
-# Ellianna Abrahams
+# [Ellianna Abrahams](https://astro.berkeley.edu/people/ellie-schwab-abrahams/)
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/ellie.jpg" width="150">
@@ -43,7 +43,7 @@ Regine is a Professor at the University of Oslo. She is a hydrologist and glacio
 <br>
 <br>
 
-# Konstantin Maslov
+# [Konstantin Maslov](https://research.utwente.nl/en/persons/konstantin-maslov)
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/konstantin.jpg" width="150">
@@ -69,7 +69,7 @@ Ben is an Associate Professor at the University of Bergen. Ben’s research is f
 <br>
 <br>
 
-# Facundo Sapienza
+# [Facundo Sapienza](https://statistics.berkeley.edu/people/facu-sapienza)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://avatars.githubusercontent.com/u/39526081?v=4" width="150">
