@@ -39,7 +39,7 @@ The workshop will include:
 
 If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. 
 
-Accepted participants will be informed per email latest by the end of January. We will announce here when the selection has been made.
+Accepted participants will be informed per email latest in early February 2023. We will announce here when the selection has been made.
 <br>
 <br>
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0615.jpg?raw=true" width="600"> <br>
