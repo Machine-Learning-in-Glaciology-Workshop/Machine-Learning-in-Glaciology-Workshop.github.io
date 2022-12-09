@@ -11,9 +11,14 @@ The final schedule for the 2023 edition will be provided later on.
 
 [ Intro to Machine Learning ] tba 
 
+[ Glaciology ] Regine Hock - tba
+
 [ Modelling ] Jordi Bolibar - (Physics-based) machine learning for glacier modelling.
 
 [ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+
+[ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
+An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
 more to be announced...
 
@@ -24,7 +29,7 @@ more to be announced...
  
 [ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
-[ Bringing your own project ] 
+[ Bring your own project ] 
 
 
 ## Outdoor activity
