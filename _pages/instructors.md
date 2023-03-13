@@ -37,6 +37,10 @@ Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric R
 </div>
 <div>
 Regine is a Professor at the University of Oslo. She is a hydrologist and glaciologist using modeling and field data to assess glacier mass changes and to predict the response of glaciers to future climate change and assess the implications on sea-level and hydrology.
+<br>
+<br>
+<br>
+<br>
 </div>
 </div>
 <br>
