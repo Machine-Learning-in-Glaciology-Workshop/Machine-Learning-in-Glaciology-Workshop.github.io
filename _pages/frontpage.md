@@ -10,7 +10,23 @@ list_title: Home
 This training workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. The number of participants is limited to approximately 25 due to the housing limitations at the Finse Research Center.
 This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 
-# Workshop Organizers
+# Workshop Organization 
+
+Workshop organizers and instructors: <br>
+Ellianna Abrahams (UC Berkley) <br>
+Jordi Bolibar (Utrecht University) <br>
+Regine Hock (University of Oslo) <br>
+Konstantin Maslov (Univerty of Twente) <br>
+Benjamin Robson (University of Bergen) <br>
+Facundo Sapienza (UC Berkley) <br>
+Thomas Schellenberger (University of Oslo) <br>
+<br>
+
+Local organizing committee: <br>
+Thomas Schellenberger (University of Oslo) <br>
+Regine Hock (University of Oslo) <br>
+Ben Robson (University of Bergen) <br>
+<br>
 
 The workshop is supported by the following institutions:
 <br>
@@ -22,10 +38,8 @@ The workshop is supported by the following institutions:
 
 <img src="assets/imgs/berkeley.png" width="200"> <br>
 
-Local organizing committee: <br>
-Thomas Schellenberger (University of Oslo) <br>
-Regine Hock (University of Oslo) <br>
-Ben Robson (University of Bergen) <br>
+<img src="assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
+<br>
 
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 
