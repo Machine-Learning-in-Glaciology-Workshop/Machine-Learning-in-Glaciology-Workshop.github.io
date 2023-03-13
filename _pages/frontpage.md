@@ -7,14 +7,12 @@ list_title: Home
 
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/winter_banner.png?raw=true" width="700">
 
-UPDATE: the selection has been made and the participants were informed.
-
 This training workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. The number of participants is limited to approximately 25 due to the housing limitations at the Finse Research Center.
 This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 
 # Workshop Organizers
 
-And has been organized by the following institutions:
+The workshop is supported by the following institutions:
 <br>
 <img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
 
@@ -23,6 +21,11 @@ And has been organized by the following institutions:
 <img src="assets/imgs/imau.png" width="400"> <br>
 
 <img src="assets/imgs/berkeley.png" width="200"> <br>
+
+Local organizing committee: <br>
+Thomas Schellenberger (University of Oslo) <br>
+Regine Hock (University of Oslo) <br>
+Ben Robson (University of Bergen) <br>
 
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 
@@ -37,11 +40,17 @@ The workshop will include:
 - Mini-conference (2 hours) where all participants present the results from their projects.
 - Free afternoon for outdoor activities (skiing, snow-shoeing).
 
+# Participant selection
+We received 68 applications and selected 27 participants.
+
+<!---
 # Application
 
 If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. 
 
 Accepted participants will be informed per email latest in early February 2023. We will announce here when the selection has been made.
+-->
+
 <br>
 <br>
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0615.jpg?raw=true" width="600"> <br>
