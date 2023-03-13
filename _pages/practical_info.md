@@ -6,8 +6,11 @@ list_title: Practical information
 ---
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse2014_0.jpg?raw=true" width="700">
 
-## Application
+
+<!---
+## Application and participant selection
 If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. Accepted participants will be informed per email latest in early February 2023. We will announce here when the selection has been made.
+-->
 
 ## Who can participate?
 
@@ -15,7 +18,7 @@ Anyone interested in using machine learning techniques in glaciology. Some exper
 
 ## Costs
 
-Costs for registration, housing (5 nights) and all meals (breakfast, lunch, dinner and snacks/coffee) at Finse Research Station fee will be approx. 7000 NOK (Norwegian Krones = approx. 700 Euros/US$). The fee may be lower (esp. for Norwegian-based participants) pending our success in receiving external funding. Travel grants are not available for foreign participants. Accepted participants must pay a non-refundable registration fee of 400 NOK latest by 15 February 2023. The rest of the fee must be paid latest by 3 April 2023. Refund policy for cancellations: 100% of total fee until 3 April 24:00 (CET), 50% until 6 April 24:00, 10% after 7 April 00:00).
+Costs for registration, housing (5 nights), all meals (breakfast, lunch, dinner and snacks/coffee) and train tickets to Finse will be 10.000 NOK (Norwegian Krones = approx. 1.000 Euros/US$). Travel grants are not available for foreign participants. Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
 
 ## Computing environment
 
@@ -25,7 +28,7 @@ The workshop infrastructure for applications using GPUs (i.e. remote sensing) wi
 The workshop will be held at the Finse Alpine Research Center run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. In April there will be lots of snow and temperatures can be well below freezing with high winds.
  
 ## Transportation
-Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets can be bought at [vy.no](www.vy.no]. The earlier you book the cheaper the tickets. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path (snow-covered in April) to the research station. A snowmobile shuttle may be arranged for transporting luggage between the train station and the research centre.
+Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Ticktes to Finse have been booked. Return tickets can be bought at [vy.no](www.vy.no]. The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path (snow-covered in April) to the research station. 
  
 # Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
@@ -38,10 +41,11 @@ You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://fl
 Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
 
 ## Arrival / departure dates
-The workshop starts at Finse on 16 April 2023 and ends on Friday 21 April at 1 pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
+The workshop starts at Finse on 16 April 2023 at 14.00 and ends on Friday 21 April at 12 pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
 
 ## Accommodation / meals
-All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login).
+All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). 
+The first meal will during the workshop will be dinner on Sunday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Friday. Please bring you own food and beverages for your travel journeys as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
  
 ## Practical information
 
@@ -55,6 +59,7 @@ Please bring:
 - Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
 - Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
 - Sun glasses
+- Sun cream
 - Warm clothes, hat, gloves, scarf etc (there will be lots of snow)
 - Boots suitable to walk in deep snow
 - Make sure you have appropriate health insurance
