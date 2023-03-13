@@ -13,6 +13,7 @@ This workshop is primarily project based. You can learn more about the projects 
 # Workshop Organization 
 
 Workshop organizers and instructors: <br>
+<br>
 Ellianna Abrahams (UC Berkley) <br>
 Jordi Bolibar (Utrecht University) <br>
 Regine Hock (University of Oslo) <br>
@@ -23,6 +24,7 @@ Thomas Schellenberger (University of Oslo) <br>
 <br>
 
 Local organizing committee: <br>
+<br>
 Thomas Schellenberger (University of Oslo) <br>
 Regine Hock (University of Oslo) <br>
 Ben Robson (University of Bergen) <br>
