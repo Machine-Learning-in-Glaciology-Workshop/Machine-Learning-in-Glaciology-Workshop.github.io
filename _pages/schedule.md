@@ -4,7 +4,7 @@ layout: page
 title: Schedule
 ---
 
-The detailed schedule for the 2023 edition can be downloaded [HERE](https://github.com/Machine-Learning-in-Glaciology-Workshop/pages/MLinGLACIOLOGY2023_schedule_v20230314.pdf)
+The detailed schedule for the 2023 edition can be downloaded [HERE](https://machine-learning-in-glaciology-workshop.github.io/_pages/MLinGLACIOLOGY2023_schedule_v20230315.pdf)
 
 
 ## Lectures
