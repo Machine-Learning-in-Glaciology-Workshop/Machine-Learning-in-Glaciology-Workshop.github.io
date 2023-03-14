@@ -14,7 +14,7 @@ If you wish to participate in the workshop, please apply [HERE](https://docs.goo
 
 ## Who can participate?
 
-Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python or Julia) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. 
+Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. We received 68 applications and selected 27 participants.
 
 ## Costs
 
@@ -45,7 +45,7 @@ The workshop starts at Finse on 16 April 2023 at 14.00 and ends on Friday 21 Apr
 
 ## Accommodation / meals
 All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). 
-The first meal will during the workshop will be dinner on Sunday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Friday. Please bring you own food and beverages for your travel journeys as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
+The first meal during the workshop will be dinner on Sunday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Friday. Please bring you own food and beverages for your travel journeys and stay if wished as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
  
 ## Practical information
 
@@ -64,7 +64,7 @@ Please bring:
 - Boots suitable to walk in deep snow
 - Make sure you have appropriate health insurance
 - Any personal medication
-- Special foods (no grocery store in Finse).
+- Special foods and beverages (no grocery store in Finse).
 
 ## COVID
 Continued covid outbreaks at conferences and workshops have shown how disruptive it can be, with many people being sick and stuck abroad. Given the remote location of Finse combined with that we will be living close together, - depending on the situation then - we may require participants to adhere to certain COVID mitigation measures (regardless of official government rules). These may include wearing masks and/or testing before and during the workshop and will be mandatory for all participants.
