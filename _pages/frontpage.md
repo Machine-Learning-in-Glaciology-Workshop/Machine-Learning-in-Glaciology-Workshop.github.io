@@ -10,6 +10,15 @@ list_title: Home
 This training workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. The number of participants is limited to approximately 25 due to the housing limitations at the Finse Research Center.
 This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 
+# Agenda
+
+The workshop will include:
+
+- Lectures on machine learning, JupyterHub + Git and related topics (ca. 1 day)
+- Hands-on project work: Participants will work on of [two pre-defined](https://machine-learning-in-glaciology-workshop.github.io/projects) projects ("Modelling glacier mass balance with machine learning“, or “Glacier mapping from satellite data using Deep Learning and Random Forests”) or may also design their own project based on their own data in collaboration with the instructors in a “hackathon-type” fashion. 
+- Mini-conference (2 hours) where all participants present the results from their projects.
+- Free afternoon for outdoor activities (skiing, snow-shoeing).
+
 # Workshop Organization 
 
 Workshop organizers and instructors: <br>
@@ -46,15 +55,6 @@ The workshop is supported by the following institutions:
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>
-
-# Agenda
-
-The workshop will include:
-
-- Lectures on machine learning, JupyterHub + Git and related topics (ca. 1 day)
-- Hands-on project work: Participants will work on of [two pre-defined](https://machine-learning-in-glaciology-workshop.github.io/projects) projects ("Modelling glacier mass balance with machine learning“, or “Glacier mapping from satellite data using Deep Learning and Random Forests”) or may also design their own project based on their own data in collaboration with the instructors in a “hackathon-type” fashion. 
-- Mini-conference (2 hours) where all participants present the results from their projects.
-- Free afternoon for outdoor activities (skiing, snow-shoeing).
 
 # Participant selection
 We received 68 applications and selected 27 participants.
