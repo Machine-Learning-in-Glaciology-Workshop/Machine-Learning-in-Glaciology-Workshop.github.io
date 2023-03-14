@@ -4,14 +4,14 @@ layout: page
 title: Schedule
 ---
 
-The final schedule for the 2023 edition will be provided later on. 
+The detailed schedule for the 2023 edition can be downloaded [HERE](https://github.com/Machine-Learning-in-Glaciology-Workshop/pages/MLinGLACIOLOGY2023_schedule_v20230314.pdf)
 
 
 ## Lectures
 
-[ Intro to Machine Learning ] tba 
+[ Intro to Machine Learning ] Konstantin Maslov 
 
-[ Glaciology ] Regine Hock - tba
+[ Glaciology ] Regine Hock and Ben Robson
 
 [ Modelling ] Jordi Bolibar - (Physics-based) machine learning for glacier modelling.
 
@@ -20,16 +20,13 @@ The final schedule for the 2023 edition will be provided later on.
 [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
-more to be announced...
-
-
 ## Projects
 
 [ Modelling ] Modelling glacier mass balance with machine learning.
  
 [ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
-[ Bring your own project ] 
+[ DIY ] Bring your own idea and data.
 
 
 ## Outdoor activity
@@ -40,6 +37,7 @@ Head lamp/ flashlight (there are no streetlights)
 Best to use a backpack for all your belongings.
 Consider bringing cross-country skis or snow shoes.
 Sun glasses.
+Sun cream.
 Warm clothes, hat, gloves, scarf etc (there will be lots of snow).
 Boots suitable to walk in deep snow.
 Make sure you have appropriate health insurance.
