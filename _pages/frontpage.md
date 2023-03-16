@@ -47,7 +47,7 @@ The workshop is supported by the following institutions:
 
 <img src="assets/imgs/imau.png" width="400"> <br>
 
-<img src="assets/imgs/TUDelft_logo_rgb.png" width="250"> <br>
+<img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
 
 <img src="assets/imgs/berkeley.png" width="200"> <br>
 
