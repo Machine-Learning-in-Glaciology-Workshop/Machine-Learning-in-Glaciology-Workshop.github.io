@@ -24,7 +24,7 @@ The workshop will include:
 Workshop organizers and instructors: <br>
 <br>
 Ellianna Abrahams (UC Berkley) <br>
-Jordi Bolibar (Utrecht University) <br>
+Jordi Bolibar (Utrecht University, TU Delft) <br>
 Regine Hock (University of Oslo) <br>
 Konstantin Maslov (Univerty of Twente) <br>
 Benjamin Robson (University of Bergen) <br>
@@ -47,7 +47,7 @@ The workshop is supported by the following institutions:
 
 <img src="assets/imgs/imau.png" width="400"> <br>
 
-<img src="assets/imgs/TUDelft_logo_rgb.png" width="400"> <br>
+<img src="assets/imgs/TUDelft_logo_rgb.png" width="250"> <br>
 
 <img src="assets/imgs/berkeley.png" width="200"> <br>
 
