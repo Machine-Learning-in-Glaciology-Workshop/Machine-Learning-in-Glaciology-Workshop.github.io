@@ -14,7 +14,7 @@ If you wish to participate in the workshop, please apply [HERE](https://docs.goo
 
 ## Who can participate?
 
-Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. We received 68 applications and selected 27 participants.
+Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. We received 67 applications and selected 27 participants.
 
 ## Costs
 
