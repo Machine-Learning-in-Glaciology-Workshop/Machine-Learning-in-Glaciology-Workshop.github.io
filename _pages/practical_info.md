@@ -62,6 +62,7 @@ Please bring:
 - Sun cream
 - Warm clothes, hat, gloves, scarf etc (there will be lots of snow)
 - Boots suitable to walk in deep snow
+- Slippers
 - Make sure you have appropriate health insurance
 - Any personal medication
 - Special foods and beverages (no grocery store in Finse).
