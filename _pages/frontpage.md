@@ -27,6 +27,7 @@ Ellianna Abrahams (UC Berkley) <br>
 Jordi Bolibar (Utrecht University, TU Delft) <br>
 Regine Hock (University of Oslo) <br>
 Konstantin Maslov (Univerty of Twente) <br>
+Fernando Perez (UC Berkley) <br>
 Benjamin Robson (University of Bergen) <br>
 Facundo Sapienza (UC Berkley) <br>
 Thomas Schellenberger (University of Oslo) <br>
