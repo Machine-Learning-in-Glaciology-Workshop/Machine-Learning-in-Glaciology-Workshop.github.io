@@ -23,13 +23,13 @@ The workshop will include:
 
 Workshop organizers and instructors: <br>
 <br>
-Ellianna Abrahams (UC Berkley) <br>
+Ellianna Abrahams (UC Berkeley) <br>
 Jordi Bolibar (Utrecht University, TU Delft) <br>
 Regine Hock (University of Oslo) <br>
 Konstantin Maslov (Univerty of Twente) <br>
-Fernando Perez (UC Berkley) <br>
+Fernando Perez (UC Berkeley) <br>
 Benjamin Robson (University of Bergen) <br>
-Facundo Sapienza (UC Berkley) <br>
+Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
 <br>
 
