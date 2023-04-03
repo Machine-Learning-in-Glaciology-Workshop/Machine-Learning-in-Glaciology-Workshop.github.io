@@ -55,9 +55,11 @@ The workshop is supported by the following institutions:
 <img src="assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
 <br>
 
-The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
+The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/), [CloudFerro](https://cloudferro.com/en/), and [CryoCloud](https://cryointhecloud.com)
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cryocloud.jpeg" width="200"/>
 
 # Participant selection
 We received 68 applications and selected 27 participants.
