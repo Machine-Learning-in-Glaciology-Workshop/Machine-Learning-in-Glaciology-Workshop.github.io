@@ -4,14 +4,14 @@ layout: page
 title: Schedule
 ---
 
-The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230314.pdf)
+The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 
 
 ## Lectures
 
 [ Intro to Machine Learning ] Konstantin Maslov 
 
-[ Glaciology ] Regine Hock and Ben Robson
+[ Examples of Machine Learning applied in Glaciology ] Regine Hock and Ben Robson
 
 [ Modelling ] Jordi Bolibar - (Physics-based) machine learning for glacier modelling.
 
