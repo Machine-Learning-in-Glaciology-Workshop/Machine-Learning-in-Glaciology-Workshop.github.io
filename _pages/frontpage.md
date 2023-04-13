@@ -62,7 +62,7 @@ The course is sponsored by the [Peder Sather grant](https://sathercenter.berkele
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cryocloud.jpeg" width="200"/>
 
 # Participant selection
-We received 68 applications and selected 27 participants.
+We received 67 applications and selected 27 participants.
 
 <!---
 # Application
