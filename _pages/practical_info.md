@@ -22,7 +22,7 @@ Costs for registration, housing (5 nights), all meals (breakfast, lunch, dinner 
 
 ## Computing environment
 
-The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by [CloudFerro](https://cloudferro.com/en/) and applicants will have access to the EO data archive on [CREODIAS](https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available with all data and dependencies already pre-installed.
+The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by [CloudFerro](https://cloudferro.com/en/) and applicants will have access to the EO data archive on [CREODIAS](https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available from [CryoCloud](https://cryointhecloud.com) with all data and dependencies already pre-installed.
 
 ## Location
 The workshop will be held at the Finse Alpine Research Center run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. In April there will be lots of snow and temperatures can be well below freezing with high winds.
@@ -58,13 +58,14 @@ Please bring:
 - Head lamp/ flashlight (there are no streetlights)
 - Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
 - Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
+- Sauna accessories
 - Sun glasses
 - Sun cream
 - Warm clothes, hat, gloves, scarf etc (there will be lots of snow)
 - Boots suitable to walk in deep snow
-- Slippers
 - Make sure you have appropriate health insurance
 - Any personal medication
+- Two Covid self-tests per person and masks.
 - Special foods and beverages (no grocery store in Finse).
 
 ## COVID
