@@ -26,7 +26,7 @@ Workshop organizers and instructors: <br>
 Ellianna Abrahams (UC Berkeley) <br>
 Jordi Bolibar (Utrecht University, TU Delft) <br>
 Regine Hock (University of Oslo) <br>
-Konstantin Maslov (Univerty of Twente) <br>
+Konstantin Maslov (University of Twente) <br>
 Fernando Perez (UC Berkeley) <br>
 Benjamin Robson (University of Bergen) <br>
 Facundo Sapienza (UC Berkeley) <br>
