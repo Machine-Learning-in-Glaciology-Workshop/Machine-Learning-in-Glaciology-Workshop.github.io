@@ -29,7 +29,7 @@ Konstantin Maslov (University of Twente) <br>
 Benjamin Robson (University of Bergen) <br>
 Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
-Kamilla Hauknes Sjursen (University Western Norway) <br>
+Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
 <br>
 
 The workshop is supported by the following institutions:
