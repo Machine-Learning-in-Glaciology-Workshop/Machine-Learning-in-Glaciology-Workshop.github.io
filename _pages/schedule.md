@@ -4,6 +4,8 @@ layout: page
 title: Schedule
 ---
 
+The exact schedule for the 2024 edition will be published in the coming weeks.
+
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 
 
@@ -30,6 +32,21 @@ An introduction on how to use the JupyterHub, Jupyter notebooks and using Git fo
 
 
 ## Outdoor activity
+
+2024 edition - This year's edition will be by be held in late summer, with chances of cold weather and even snow.
+We reserve one afternoon for self-organized outdoor activities, so please bring:
+
+Head lamp/ flashlight (there are no streetlights)
+Best to use a backpack for all your belongings.
+Hiking shoes.
+Sun glasses.
+Sun cream.
+Warm clothes, hat, gloves, scarf etc.
+Make sure you have appropriate health insurance.
+Any personal medication.
+Special foods (no grocery store in Finse).
+
+<!---
 2023 edition - This year's edition will be by early spring, with still a lot of snow in Finse.
 We reserve one afternoon for self-organized outdoor activities, so please bring:
 
@@ -43,6 +60,8 @@ Boots suitable to walk in deep snow.
 Make sure you have appropriate health insurance.
 Any personal medication.
 Special foods (no grocery store in Finse).
+
+-->
 
 
 
@@ -112,11 +131,8 @@ The three presentations will cover:
 - **Project description**
 
 
-# [ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
+# [ Software ] Facundo Sapienza - Introduction to Jupyter Hub and Git
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
-
-# [ Statistics ] Ellianna Abrahams - CryoStats
-The rest of the mornings will start with short friendly lectures on Statistics and machine learning by Ellie. The idea is to learn in an intuitive way important notions when using statistical and machine learning methods in glaciology and geosciences in general.
 
 # [ Glaciology ] Everyone - Examples of ML in Glaciology
 The goal of this section will be for instructors to give short 15-minute presentations showing applications of ML in glaciology from their research. Students will aslo be able to give short presentations of their work (around 5 minutes). If they wish to present something longer, please contact us in advance.
