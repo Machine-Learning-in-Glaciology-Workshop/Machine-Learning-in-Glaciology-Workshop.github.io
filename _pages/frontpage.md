@@ -10,6 +10,8 @@ list_title: Home
 The Machine Learning in Glaciology Training Workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. The number of participants is limited to approximately 25 due to the housing limitations at the Finse Research Center.
 This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 
+
+
 # When and Where
 
 The 3rd edition of the Machine Learning in Glaciology Training Workshop will be held from 6 - 12 September 2024 at the [Finse Alpine Research Center](https://www.finse.uio.no/) in Norway. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away. 
@@ -35,7 +37,7 @@ Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
 Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
 <br>
-More details on the team of instructors can be found [here](https://machine-learning-in-glaciology-workshop.github.io/instructors) <br>
+More details about the instructors can be found [here](https://machine-learning-in-glaciology-workshop.github.io/instructors). <br>
 <br>
 
 The workshop is supported by the following institutions:
