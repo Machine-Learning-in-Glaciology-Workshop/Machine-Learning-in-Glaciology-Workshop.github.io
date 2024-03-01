@@ -38,7 +38,7 @@ In April there will be lots of snow and temperatures can be well below freezing 
 -->
  
 ## Transportation
-Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](www.vy.no]. The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
+Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](www.vy.no). The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
  
 # Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
