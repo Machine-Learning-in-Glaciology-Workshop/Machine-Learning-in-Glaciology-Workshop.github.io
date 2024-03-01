@@ -64,16 +64,19 @@ Please bring:
 - Indoor shoes/slippers (there are no shoes allowed inside and the floor is quite cold)
 - Head lamp/ flashlight (there are no streetlights)
 - Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
-- Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
 - Sauna accessories
 - Sun glasses
 - Sun cream
-- Warm clothes, hat, gloves, scarf etc (there will be lots of snow)
+- Warm clothes, hat, gloves, scarf etc
 - Boots suitable to walk in deep snow
 - Make sure you have appropriate health insurance
 - Any personal medication
 - Two Covid self-tests per person and masks.
 - Special foods and beverages (no grocery store in Finse).
+
+- <!---
+- Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
+--->
 
 ## COVID
 Continued covid outbreaks at conferences and workshops have shown how disruptive it can be, with many people being sick and stuck abroad. Given the remote location of Finse combined with that we will be living close together, - depending on the situation then - we may require participants to adhere to certain COVID mitigation measures (regardless of official government rules). These may include wearing masks and/or testing before and during the workshop and will be mandatory for all participants.
