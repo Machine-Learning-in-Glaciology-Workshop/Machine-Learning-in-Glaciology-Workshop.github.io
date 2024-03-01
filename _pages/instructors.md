@@ -7,7 +7,7 @@ title: Instructors
 # [Jordi Bolibar](https://jordibolibar.wordpress.com/)
 <div>
 <div style="float: left; padding: 10px">
-<img src="https://jordibolibar.files.wordpress.com/2018/03/img_20180228_095507667_hdr.jpg" width="150">
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/JBolibar_profile.jpg?raw=true" width="200">
 </div>
 <div>
 Jordi is a Postdoctoral researcher at IGE, Universté Grenoble Alpes (France). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
