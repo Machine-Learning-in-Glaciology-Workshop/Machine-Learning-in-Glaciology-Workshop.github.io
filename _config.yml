@@ -37,5 +37,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-    - _pages/outdoor.md
     - UiBlogo_Eng_white_left.png
