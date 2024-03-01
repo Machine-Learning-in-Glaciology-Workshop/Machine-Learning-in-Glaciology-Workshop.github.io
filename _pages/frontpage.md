@@ -40,9 +40,14 @@ The workshop is supported by the following institutions:
 
 <img src="assets/imgs/uib.png" width="300"> <br>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg/1280px-Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg.png" width="200"> <br>
+
 <img src="assets/imgs/berkeley.png" width="200"> <br>
 
 <img src="assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
+
+<img src="https://study-eu.s3.eu-west-1.amazonaws.com/uploads/university/western-norway-university-of-applied-sciences-logo.png" width="250"> <br>
+
 <br>
 
 The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action). 
