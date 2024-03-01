@@ -35,7 +35,7 @@ Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
 Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
 <br>
-More details on the temof instructors can be found [here](https://machine-learning-in-glaciology-workshop.github.io/instructors) <br>
+More details on the team of instructors can be found [here](https://machine-learning-in-glaciology-workshop.github.io/instructors) <br>
 <br>
 
 The workshop is supported by the following institutions:
