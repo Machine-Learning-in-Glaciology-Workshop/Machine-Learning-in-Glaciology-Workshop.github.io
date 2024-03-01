@@ -21,11 +21,11 @@ Please bring:
 
 ### 2023 edition
 
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMD7wvQMA-_gn2eQ9xYxhGFk_sRAA0e6jKfQaUtXlu0TgW4iz4sjJ-6YA=w2134-h1600-s-no-gm?authuser=0" width="700"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2016.jpg?raw=true" width="700"> <br>
 
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczPqjE9EcxIsrfIAfTZaXccymgHaHSfLjH2KlQZ8uSYO55pX637FZ-vmaQ=w1200-h1600-s-no-gm?authuser=0" width="700"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2019.jpg?raw=true" width="700"> <br>
 
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMh0E8WxBqzy5HpGJqHiXjW3sSkHp6B7Tk_ZOd367N3shNxWum1NgUGWg=w2134-h1600-s-no-gm?authuser=0" width="700"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2020.jpg?raw=true" width="700"> <br>
 
 *Spring edition of the workshop, with plenty of outdoor snow activities.*
 
