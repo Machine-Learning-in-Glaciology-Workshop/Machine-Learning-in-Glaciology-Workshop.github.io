@@ -4,26 +4,13 @@ layout: page
 title: Instructors
 ---
 
-# [Ellianna Abrahams](https://astro.berkeley.edu/people/ellie-schwab-abrahams/)
-<div>
-<div style="float: left; padding: 10px">
-<img src="assets/imgs/ellie.jpg" width="150">
-</div>
-<div>
-Ellie is a PhD Candidate at UC Berkeley working on image-based machine learning using Antarctic remote sensing datasets. Ellie’s PhD focuses on the detection of polynyas and the characterization of their time-domain properties as a population. Ellie currently works on teaching neural networks flexibility in the face of uncertain data, and has experience with Bayesian regression, deep learning, and causal inference.
-</div>
-</div>
-<br>
-<br>
-<br>
-
 # [Jordi Bolibar](https://jordibolibar.wordpress.com/)
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://jordibolibar.files.wordpress.com/2018/03/img_20180228_095507667_hdr.jpg" width="150">
 </div>
 <div>
-Jordi is a Postdoctoral researcher at the Institute for Marine and Atmospheric Research in Utrecht University (Netherlands). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  He has also developed the ALpine Parameterized Glacier Model (ALPGM), a deep learning-based fully parameterized glacier model to simulate the evolution of alpine glaciers for past and future periods.
+Jordi is a Postdoctoral researcher at IGE, Universté Grenoble Alpes (France). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
 </div>
 </div>
 <br>
@@ -95,5 +82,18 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 </div>
 <div>
 Thomas is a researcher at the University of Oslo. He investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
+</div>
+</div>
+<br>
+<br>
+<br>
+
+# [Kamilla Hauknes Sjursen](https://www.mn.uio.no/geo/english/people/aca/geohyd/thosche/index.html)
+<div>
+<div style="float: left; padding: 10px">
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/kamilla.png?raw=true" width="150">
+</div>
+<div>
+Kamilla is a PhD candidate at the Western Norway University of Applied Sciences. She investigates the use of Bayesian and Machine Learning approaches to model and understand past and future changes in mass balance of Norwegian glaciers. 
 </div>
 </div>
