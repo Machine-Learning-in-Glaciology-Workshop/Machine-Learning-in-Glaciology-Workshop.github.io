@@ -30,22 +30,6 @@ An introduction on how to use the JupyterHub, Jupyter notebooks and using Git fo
 
 [ DIY ] Bring your own idea and data.
 
-
-## Outdoor activity
-
-2024 edition - This year's edition will be by be held in late summer, with chances of cold weather and even snow.
-We reserve one afternoon for self-organized outdoor activities, so please bring:
-
-Head lamp/ flashlight (there are no streetlights)
-Best to use a backpack for all your belongings.
-Hiking shoes.
-Sun glasses.
-Sun cream.
-Warm clothes, hat, gloves, scarf etc.
-Make sure you have appropriate health insurance.
-Any personal medication.
-Special foods (no grocery store in Finse).
-
 <!---
 2023 edition - This year's edition will be by early spring, with still a lot of snow in Finse.
 We reserve one afternoon for self-organized outdoor activities, so please bring:
