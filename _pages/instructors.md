@@ -16,6 +16,8 @@ Jordi is a Postdoctoral researcher at IGE, Universté Grenoble Alpes (France). J
 <br>
 <br>
 <br>
+<br>
+<br>
 
 # [Regine Hock](https://www.mn.uio.no/geo/english/people/aca/geohyd/regineho/index.html)
 <div>
@@ -84,6 +86,8 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 Thomas is a researcher at the University of Oslo. He investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
 </div>
 </div>
+<br>
+<br>
 <br>
 <br>
 <br>
