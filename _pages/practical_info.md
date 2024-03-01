@@ -43,7 +43,7 @@ Finse is only accessible by train, from either Oslo central station (Oslo S) (ca
 # Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
 - Flytoget (flight train), fastest, ca. 20 minutes, 220 NOK
-- "Normal" train by company ´vy´, ca. 30 minutes, 115 NOK. This train may actually get you faster to Oslo depending when you get there since it goes more often. Trains R10, R11 and L12 go to Oslo.
+- "Normal" train by [vy.no](www.vy.no), ca. 30 minutes, ~115 NOK. This train may actually get you faster to Oslo depending when you get there since it goes more often. Trains R10, R11 and L12 go to Oslo.
  
 You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://flytoget.no/en/)). From the ticket counter/machines it is a 2 minute walk to the platform (down the escalator).
  
