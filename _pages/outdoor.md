@@ -5,21 +5,29 @@ title: Outdoor activities
 list_title: Outdoor activities
 ---
 
-### 2023 edition
+### 2024 edition
 
-This year's edition will be by early spring, with still a lot of snow in Finse. 
-
+This year's edition will be by be held in late summer, with chances of cold weather and even some snow.
 Please bring:
 
 - Head lamp/ flashlight (there are no streetlights)
 - Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
-- Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
+- Sturdy hiking shoes.
 - Sun glasses
-- Warm clothes, hat, gloves, scarf etc (there will be lots of snow)
-- Boots suitable to walk in deep snow
+- Warm clothes, hat, gloves, scarf etc
 - Make sure you have appropriate health insurance
 - Any personal medication
 - Special foods (no grocery store in Finse).
+
+### 2023 edition
+
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMD7wvQMA-_gn2eQ9xYxhGFk_sRAA0e6jKfQaUtXlu0TgW4iz4sjJ-6YA=w2134-h1600-s-no-gm?authuser=0" width="700"> <br>
+
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczPqjE9EcxIsrfIAfTZaXccymgHaHSfLjH2KlQZ8uSYO55pX637FZ-vmaQ=w1200-h1600-s-no-gm?authuser=0" width="700"> <br>
+
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMh0E8WxBqzy5HpGJqHiXjW3sSkHp6B7Tk_ZOd367N3shNxWum1NgUGWg=w2134-h1600-s-no-gm?authuser=0" width="700"> <br>
+
+*Spring edition of the workshop, with plenty of outdoor snow activities.*
 
 ### 2022 edition
 
