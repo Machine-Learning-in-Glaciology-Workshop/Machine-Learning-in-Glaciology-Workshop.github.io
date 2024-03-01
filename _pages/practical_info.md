@@ -14,11 +14,18 @@ If you wish to participate in the workshop, please apply [HERE](https://docs.goo
 
 ## Who can participate?
 
-Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. We received 67 applications and selected 27 participants.
+Anyone interested in using machine learning techniques in glaciology. Some experience in  programming (ideally in Python) is required. Since the focus is on "hands-on" project work we also require some basic knowledge in machine learning prior to the workshop. 
+<!---
+We received 67 applications and selected 27 participants.
+-->
 
 ## Costs
 
-Costs for registration, housing (5 nights), all meals (breakfast, lunch, dinner and snacks/coffee) and train tickets to Finse will be 10.000 NOK (Norwegian Krones = approx. 1.000 Euros/US$). Travel grants are not available for foreign participants. Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
+Costs for registration, housing (5 nights), all meals (breakfast, lunch, dinner and snacks/coffee) and train tickets to Finse will be 10.000 NOK (Norwegian Krones = approx. 1.000 Euros/US$). Travel grants are not available for foreign participants. 
+
+<!---
+Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
+-->
 
 ## Computing environment
 
