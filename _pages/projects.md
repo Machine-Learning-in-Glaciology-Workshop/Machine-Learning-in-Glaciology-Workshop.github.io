@@ -6,7 +6,7 @@ title: Projects
 
 The primary goal of this workshop is to work on a project with one of the instructors for a week. There are three options for participants: you can either join one of the two pre-established projects, meant to learn the basics of machine learning applied to glacier modelling or remote sensing, or you can bring your own project. 
 
-### [ Project 1 ] - [Modelling glacier mass balance with machine learning](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar and Facu Sapienza*
+### [ Project 1 ] - [Modelling glacier mass balance with machine learning](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar, Kamilla Hauknes Sjursen and Facu Sapienza*
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/glacier_AI_lq.png" width="400">
@@ -32,6 +32,6 @@ The students will have the possibility to learn how to map glaciers in Svalbard,
 <br>
 <br>
 
-### [ Project X ] - Bring your own project - *coordinated by Ellianna Abrahams*
+### [ Project X ] - Bring your own project 
 
 Bringing your own project requires planning and an achievable goal for the workshop. In order to do so, we would ask the participant to share a short explanation of the project, its current status and the objectives for the workshop in the application form. Teaming up with other participants for a project is highly recommended, in order to foster interactions and create collaborations. 
