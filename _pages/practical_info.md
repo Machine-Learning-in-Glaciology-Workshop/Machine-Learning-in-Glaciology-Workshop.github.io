@@ -9,7 +9,7 @@ list_title: Practical information
 
 <!---
 ## Application and participant selection
-If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 9 January 2023. Accepted participants will be informed per email latest in early February 2023. We will announce here when the selection has been made.
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 31 March 2024. Accepted participants will be informed per email latest in end of April 2024. We will announce here when the selection has been made.
 -->
 
 ## Who can participate?
@@ -21,7 +21,7 @@ We received 67 applications and selected 27 participants.
 
 ## Costs
 
-Costs for registration, housing (5 nights), all meals (breakfast, lunch, dinner and snacks/coffee) and train tickets to Finse will be 10.000 NOK (Norwegian Krones = approx. 1.000 Euros/US$). Travel grants are not available for foreign participants. 
+Costs for registration, housing (6 nights), all meals (breakfast, lunch, dinner and snacks/coffee) will be approximately 11.000 NOK (Norwegian Krones = approx. 1.100 Euros/US$). Travel grants are not available for foreign participants. 
 
 <!---
 Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
@@ -32,10 +32,13 @@ Accepted participants must pay a non-refundable registration fee of 400 NOK late
 The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by [CloudFerro](https://cloudferro.com/en/) and applicants will have access to the EO data archive on [CREODIAS](https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available from [CryoCloud](https://cryointhecloud.com) with all data and dependencies already pre-installed.
 
 ## Location
-The workshop will be held at the Finse Alpine Research Center run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. In April there will be lots of snow and temperatures can be well below freezing with high winds.
+The workshop will be held at the [Finse Alpine Research Center](https://www.finse.uio.no/) run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. Temperatures in Finse in September are around 0-15 degree Celcius, snow fall is possible. 
+<!---
+In April there will be lots of snow and temperatures can be well below freezing with high winds.
+-->
  
 ## Transportation
-Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Ticktes to Finse have been booked. Return tickets can be bought at [vy.no](www.vy.no]. The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path (snow-covered in April) to the research station. 
+Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](www.vy.no]. The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
  
 # Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
@@ -48,11 +51,11 @@ You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://fl
 Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
 
 ## Arrival / departure dates
-The workshop starts at Finse on 16 April 2023 at 14.00 and ends on Friday 21 April at 12 pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
+The workshop starts at Finse on Friday, September 6 2024 at 18.00 and ends on Thursday, September 12 at 14 pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
 
 ## Accommodation / meals
 All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). 
-The first meal during the workshop will be dinner on Sunday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Friday. Please bring you own food and beverages for your travel journeys and stay if wished as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
+The first meal during the workshop will be dinner on Friday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Thursday. Please bring you own food and beverages for your travel journeys and stay if wished as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
  
 ## Practical information
 
@@ -68,7 +71,7 @@ Please bring:
 - Sun glasses
 - Sun cream
 - Warm clothes, hat, gloves, scarf etc
-- Boots suitable to walk in deep snow
+- Hiking or running shoes.
 - Make sure you have appropriate health insurance
 - Any personal medication
 - Two Covid self-tests per person and masks.
@@ -76,6 +79,7 @@ Please bring:
 
 - <!---
 - Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
+- Boots suitable to walk in deep snow
 --->
 
 ## COVID
