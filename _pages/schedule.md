@@ -22,7 +22,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 [ Software ] Facundo Sapienza - Introduction to Jupyter Hub and Git
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
 
-[ Optional evening lectures ] Physics-based machine learning for glacier modelling, Introduction to Vision Transformers, 
+[ Optional evening lectures ] Physics-based machine learning for glacier modelling & Introduction to Vision Transformers. 
 
 ## Projects
 
