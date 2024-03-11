@@ -12,7 +12,7 @@ This workshop is primarily project based. You can learn more about the projects 
 <br>
 # Application
 
-If you wish to participate in the workshop, please apply [HERE]([(https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform)] by 8 April 2024. The number of participants is limited to 25 and applicants will be informed about admission via email by early May.
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024. The number of participants is limited to 25 and applicants will be informed about admission via email by early May.
 <br>
 # When and Where
 
