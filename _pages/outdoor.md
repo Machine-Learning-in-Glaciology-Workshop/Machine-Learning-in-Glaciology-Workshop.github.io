@@ -5,7 +5,7 @@ title: Outdoor activities
 list_title: Outdoor activities
 ---
 
-### 2024 edition
+### 2024 workshop
 
 This year's edition will be by be held in late summer, with chances of cold weather and even some snow.
 Please bring:
@@ -19,7 +19,7 @@ Please bring:
 - Any personal medication
 - Special foods (no grocery store in Finse).
 
-### 2023 edition
+### 2023 workshop
 
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2016.jpg?raw=true" width="700"> <br>
 
@@ -29,7 +29,7 @@ Please bring:
 
 *Spring edition of the workshop, with plenty of outdoor snow activities.*
 
-### 2022 edition
+### 2022 workshop
 
 <img src="assets/imgs/DJI_0607.jpg" width="700"> <br>
 
