@@ -10,7 +10,7 @@ title: Instructors
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/JBolibar_profile.jpg?raw=true" width="200">
 </div>
 <div>
-Jordi is a Postdoctoral researcher at IGE, Universté Grenoble Alpes (France). Jordi’s research focuses on applying ML to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
+Jordi is a Postdoctoral researcher at IGE, Université Grenoble Alpes (France). Jordi’s research focuses on applying machien learning to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
 </div>
 </div>
 <br>
@@ -44,7 +44,7 @@ Regine is a Professor at the University of Oslo. She is a hydrologist and glacio
 <img src="assets/imgs/konstantin.jpg" width="150">
 </div>
 <div>
-Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working glacier mapping and glacier mass balance estimation using deep learning.
+Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks and vision transformers for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working on glacier mapping <a href="https://github.com/konstantin-a-maslov/towards_global_glacier_mapping">global glacier mapping</a> and glacier mass balance estimation using deep learning .
 </div>
 </div>
 <br>
@@ -83,7 +83,7 @@ Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the U
 <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2016/pdf/schellenberger150px.jpg" width="150">
 </div>
 <div>
-Thomas is a researcher at the University of Oslo. He investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate calving fluxes of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to map glacier extent and estimate glacier mass balance from satellite data.
+Thomas is a researcher at the University of Oslo. He investigates the dynamics of glaciers using remote sensing data. He uses SAR and optical satellite data to extract glacier velocities to monitor glacier surges and to estimate frontal ablation of marine-terminating glaciers. Thomas current focus is on developing machine learning algorithms to mapping glacier extent and estimating glacier mass balance from satellite data.
 </div>
 </div>
 <br>
