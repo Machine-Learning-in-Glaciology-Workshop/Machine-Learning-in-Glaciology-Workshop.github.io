@@ -44,7 +44,7 @@ Regine is a Professor at the University of Oslo. She is a hydrologist and glacio
 <img src="assets/imgs/konstantin.jpg" width="150">
 </div>
 <div>
-Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks and vision transformers for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working on glacier mapping <a href="https://github.com/konstantin-a-maslov/towards_global_glacier_mapping">global glacier mapping</a> and glacier mass balance estimation using deep learning .
+Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth Observation, University of Twente. He received his bachelor's and master's degrees in Computer Science from Tomsk Polytechnic University, Russia. His main research interests are methods of machine learning applied to Earth Observation data. Most of the time he deals with convolutional neural networks and vision transformers for semantic image segmentation but he is also keen on other approaches for image analysis and problems at the intersection of Remote Sensing and Data Science.  He is currently working on <a href="https://github.com/konstantin-a-maslov/towards_global_glacier_mapping">global glacier mapping</a> and glacier mass balance estimation using deep learning .
 </div>
 </div>
 <br>
