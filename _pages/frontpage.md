@@ -16,7 +16,7 @@ If you wish to participate in the workshop, please apply [HERE](https://docs.goo
 <br>
 # When and Where
 
-The 3rd Machine Learning in Glaciology Workshop will be held from 6 - 12 September 2024 at the [Finse Alpine Research Center](https://www.finse.uio.no/) in Norway. The station is located near the Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away. 
+The 3rd Machine Learning in Glaciology Workshop will be held from 6 - 12 September 2024 at the [Finse Alpine Research Center](https://www.finse.uio.no/) in Norway. The station is located near the Hardangerjøkulen Ice Cap with one of the outlet glaciers only 1-2 km away from the station. 
 <br>
 # Agenda
 
