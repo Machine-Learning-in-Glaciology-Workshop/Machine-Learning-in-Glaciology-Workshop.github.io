@@ -7,10 +7,8 @@ list_title: Practical information
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse2014_0.jpg?raw=true" width="700">
 
 
-<!---
 ## Application and participant selection
-If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeFPpADZpmVA0lA4UYs7y8ayQV1PuN6JoWUJBguA7qVk0bpSg/viewform) latest by 31 March 2024. Accepted participants will be informed per email latest in end of April 2024. We will announce here when the selection has been made.
--->
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024. Accepted participants will be informed per email latest early May 2024. We will announce here when the selection has been made.
 
 ## Who can participate?
 
@@ -21,7 +19,7 @@ We received 67 applications and selected 27 participants.
 
 ## Costs
 
-Costs for registration, housing (6 nights), all meals (breakfast, lunch, dinner and snacks/coffee) will be approximately 11.000 NOK (Norwegian Krones = approx. 1.100 Euros/US$). Travel grants are not available for foreign participants. 
+Costs for registration, housing (6 nights), all meals (breakfast, lunch, dinner and snacks/coffee) will be approximately 9.000 Norwegian Krones (~800€/850 US$). Travel grants are not available for foreign participants. 
 
 <!---
 Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
