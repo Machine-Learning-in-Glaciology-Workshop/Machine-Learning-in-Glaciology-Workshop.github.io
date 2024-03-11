@@ -4,23 +4,25 @@ layout: page
 title: Schedule
 ---
 
-The exact schedule for the 2024 edition will be published in the coming weeks.
-
+The preliminary schedule for the 2024 workshop can be downloaded [HERE]((https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2024_schedule_v20240311.pdf)
+<!---
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
-
+-->
 
 ## Lectures
 
 [ Intro to Machine Learning ] Konstantin Maslov 
 
-[ Examples of Machine Learning applied in Glaciology ] Regine Hock and Ben Robson
+[ Examples of Machine Learning applied in Glaciology ] Regine Hock
 
-[ Modelling ] Jordi Bolibar - (Physics-based) machine learning for glacier modelling.
+[ Modelling ] Jordi Bolibar - Machine learning for glacier modelling.
 
 [ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
 
-[ Software ] Facundo Sapienza and Ellianna Abrahams - Introduction to Jupyter Hub and Git
+[ Software ] Facundo Sapienza - Introduction to Jupyter Hub and Git
 An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
+
+[ Optional evening lectures ] Physics-based machine learning for glacier modelling, Introduction to Vision Transformers, 
 
 ## Projects
 
@@ -59,7 +61,7 @@ Special foods (no grocery store in Finse).
 | **Thursday**  | CryoStats, Examples of ML in Glaciology, morning goals for projects |       | Working on projects |        | Chill time          |
 | **Friday**    | Finalize results and presentation   |       | Presentation of project, End of the workshop                       |        |                           |
 
--->
+
 
 <!---
 
