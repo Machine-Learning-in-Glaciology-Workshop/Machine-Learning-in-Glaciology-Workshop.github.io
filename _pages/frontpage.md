@@ -73,7 +73,7 @@ We received 67 applications and selected 27 participants.
 <br>
 <br>
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/dji_fly_20230420_151234_47_1681996621855_photo.jpg?raw=true" width="600"> <br>
-Group photo taken atthe Finse Research station during the second workshop in April 2023.<br>
+Group photo taken behind the Finse Research Station during the second workshop in April 2023.<br>
 <br>
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/DJI_0615.jpg?raw=true" width="600"> <br>
 Group photo taken on Middalsbreen, Hardangerjokulen during the first workshop in September 2022.
