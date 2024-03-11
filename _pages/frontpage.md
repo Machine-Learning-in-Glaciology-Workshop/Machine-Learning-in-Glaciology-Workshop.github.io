@@ -27,6 +27,7 @@ The workshop will include:
 - Mini-conference (2 hours) where all participants present the results from their projects.
 - Free afternoon for outdoor activities (hiking, running).
 <br>
+<br>
 # Workshop Organization 
 
 Workshop organizers and instructors: <br>
@@ -60,7 +61,7 @@ The workshop is supported by the following institutions:
 
 <br>
 
-The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action) and the [MASSIVE project, funded by the Research Council of Norway](https://www.mn.uio.no/geo/english/research/projects/massive/index.html)].
+The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action) and the [Research Council of Norway project MASSIVE project](https://www.mn.uio.no/geo/english/research/projects/massive/index.html).
 
 <img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
 <img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
