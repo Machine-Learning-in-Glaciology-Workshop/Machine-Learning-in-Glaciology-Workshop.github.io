@@ -27,7 +27,6 @@ The workshop will include:
 - Mini-conference (2 hours) where all participants present the results from their projects.
 - Free afternoon for outdoor activities (hiking, running).
 <br>
-
 # Workshop Organization 
 
 Workshop organizers and instructors: <br>
