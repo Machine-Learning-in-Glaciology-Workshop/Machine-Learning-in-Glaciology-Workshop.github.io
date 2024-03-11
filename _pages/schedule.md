@@ -4,7 +4,7 @@ layout: page
 title: Schedule
 ---
 
-The preliminary schedule for the 2024 workshop can be downloaded [HERE]((https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2024_schedule_v20240311.pdf)
+The preliminary schedule for the 2024 workshop can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2024_schedule_v20240311.pdf)
 <!---
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 -->
