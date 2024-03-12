@@ -9,7 +9,7 @@ title: Instructors
 <div style="float: left; padding: 10px">
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/JBolibar_profile.jpg?raw=true" width="200">
 </div>
-<div>
+<div text-align: justify>
 Jordi is a Postdoctoral researcher at IGE, Université Grenoble Alpes (France). Jordi’s research focuses on applying machien learning to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
 </div>
 </div>
@@ -50,7 +50,7 @@ Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth 
 <br>
 <br>
 <br>
-
+<!---
 # [Benjamin Aubrey Robson](https://www.uib.no/en/persons/Benjamin.Aubrey.Robson)
 <div>
 <div style="float: left; padding: 10px">
@@ -63,7 +63,7 @@ Ben is an Associate Professor at the University of Bergen. Ben’s research is f
 <br>
 <br>
 <br>
-
+-->
 # [Facundo Sapienza](https://statistics.berkeley.edu/people/facu-sapienza)
 <div>
 <div style="float: left; padding: 10px">
