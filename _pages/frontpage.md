@@ -8,7 +8,7 @@ list_title: Home
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse_banner_2024.png?raw=true" width="700">
 
 The Machine Learning in Glaciology Workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. The number of participants is limited to approximately 25 due to the housing limitations at the Finse Research Center.
-This workshop is primarily project based. You can learn more about the projects [on the projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
+This workshop is primarily project based. You can learn more about the projects on the [projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. 
 <br>
 
 # Application
