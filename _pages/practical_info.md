@@ -49,7 +49,7 @@ You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://fl
 Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
 
 ## Arrival / departure dates
-The workshop starts at Finse on Friday, September 6 2024 at 18.00 and ends on Thursday, September 12 at 14 pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
+The workshop starts at Finse on Friday, 6 September 2024 at 6PM and ends on Thursday, 12 September 12 at 2pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
 
 ## Accommodation / meals
 All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). 
