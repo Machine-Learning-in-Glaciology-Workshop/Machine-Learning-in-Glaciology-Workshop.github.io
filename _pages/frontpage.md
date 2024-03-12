@@ -7,7 +7,7 @@ list_title: Home
 
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse_banner_2024.png?raw=true" width="700">
 
-The 3rd Machine Learning in Glaciology Workshop will be held from 6 - 12 September 2024 at the [Finse Alpine Research Center](https://www.finse.uio.no/) in Norway. The station is located near the Hardangerjøkulen Ice Cap with one of the outlet glaciers only 1-2 km away. The workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. This workshop is targeted towards researchers/students who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. This workshop is primarily project based. You can learn more about the projects on the [projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. Participants may also design their own project based on own ideas and data in collaboration with the instructors and other participants in a “hackathon-type” fashion.
+The 3rd Machine Learning in Glaciology Workshop will be held from 6 - 12 September 2024 at the [Finse Alpine Research Center](https://www.finse.uio.no/) in Norway. The station is located near the Hardangerjøkulen Ice Cap with one of the outlet glaciers only 1-2 km away. The workshop is designed to connect researchers at all career stages who are interested in the intersection of glaciology and machine learning. It is targeted towards scientists who already have basic to medium programming and machine learning skills and want to increase their skills in machine learning related to glaciology. This workshop is primarily project based. You can learn more about the projects on the [projects page](projects.md). All the lecture materials are gathered in a [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html), which is being updated iteratively with participant's feedback. Participants may also design their own project based on own ideas and data in collaboration with the instructors and other participants in a “hackathon-type” fashion.
 <br>
 
 # Application
@@ -19,7 +19,7 @@ If you wish to participate in the workshop, please apply [HERE](https://docs.goo
 
 The workshop will include:
 
-- Lectures on machine learning, JupyterHub + Git and related topics (ca. 1 day)
+- Lectures on machine learning applied to glacier modelling and glacier mapping from satellite data, JupyterHub + Git and related topics (ca. 1 day)
 - Hands-on project work: Participants will work on of [two pre-defined](https://machine-learning-in-glaciology-workshop.github.io/projects) projects "Modelling glacier mass balance with machine learning“, or “Glacier mapping from satellite data using Deep Learning and Random Forests”. They may also design their own project based on own ideas and data in collaboration with the instructors and other participants in a “hackathon-type” fashion. 
 - 2-hour mini-conference where all participants present the results from their projects.
 - Free afternoon for outdoor activities (hiking, running).
@@ -32,7 +32,6 @@ Workshop organizers and instructors: <br>
 Jordi Bolibar (Université Grenoble Alpes) <br>
 Regine Hock (University of Oslo) <br>
 Konstantin Maslov (University of Twente) <br>
-Benjamin Robson (University of Bergen) <br>
 Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
 Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
