@@ -1,10 +1,8 @@
 ---
 permalink: /codeofconduct
 layout: page
-title: Code of Conduct
+title: Code of conduct
 ---
-
-## Code of Conduct for the ML in Glaciology Workshop
 
 The organizers of the workshop are dedicated to creating a harassment-free learning experience for everyone regardless of gender,
 gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion. 
@@ -12,7 +10,7 @@ This document is conceived to ensure we ensure we offer a hospitable and inclusi
 
 All participants of the workshop, including students, instructors, staff, and guests, are requested to respect and follow the code of conduct. 
 
-### Definition of Prohibited Conduct
+### Definition of prohibited conduct
 
 Following the [United Nation Secretary General bulletin](http://daccess-ods.un.org/access.nsf/Get?Open&DS=ST/SGB/2008/5&Lang=E), we include the following adapted relevant definitions. 
 - Discrimination is any unfair treatment or arbitrary distinction based on a person’s race, sex, religion, nationality, ethnic origin, sexual orientation, disability, age, language, social origin or other status. Discrimination may be an isolated event affecting one person or a group of persons similarly situated, or may manifest itself through harassment or abuse of authority.  
@@ -20,7 +18,7 @@ Following the [United Nation Secretary General bulletin](http://daccess-ods.un.o
 - Sexual harassment is any unwelcome sexual advance, request for sexual favour, verbal or physical conduct or gesture of a sexual nature, or any other behaviour of a sexual nature that might reasonably be expected or be perceived to cause offence or humiliation to another, when such conduct interferes with work, is made a condition of employment or creates an intimidating, hostile or offensive work environment. While typically involving a pattern of behavior, it can take the form of a single incident. Sexual harassment may occur between persons independently of their gender identity.
 - Abuse of authority is the improper use of a position of influence, power or authority against another person. This is particularly serious when a person uses their influence, power or authority to improperly influence the career or employment conditions of another, including, but not limited to, appointment, assignment, contract renewal, performance evaluation or promotion. Abuse of authority may also include conduct that creates a hostile or offensive work environment which includes, but is not limited to, the use of intimidation, threats, blackmail or coercion.
 
-### Unacceptable Behavior
+### Unacceptable behavior
 
 Any form of prohibited conduct including but not limited to discrimination, harassment, sexual harassment and abuse of authority are unacceptable during the workshop. 
 Examples of prohibited behavior include
@@ -36,7 +34,7 @@ Examples of prohibited behavior include
 Participants asked to stop any harassing behavior are expected to comply immediately. 
 Failure to comply will result in the participant being expelled from the event at the discretion of the organizers or the research station manager.
 
-### Expected Behavior
+### Expected behavior
 
 We expect all participants, including students, instructors, staff and guests, to act in ways that support a learning community at all event venues and event-related social activities. We expect you to support collaboration and learning while participating in this community of practice. The following behaviors are expected and requested for all workshop participants. 
 - Practice empathy and humility. Be mindful that each workshop participant came from different backgrounds and we are all here together to learn and thrive together.
@@ -52,7 +50,7 @@ We expect all participants, including students, instructors, staff and guests, t
 - Follow instructions by Finse research station management/director regarding safety and use of station facilities.
 This is not an exhaustive list of all the principles to create a welcoming community, and we welcome participants in looking for ways of building an inclusive community within the workshop. 
 
-### Point of Contact
+### Point of contact
 
 If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a staff member. 
 If you feel comfortable contacting someone associated with the workshop, please contact any of the instructors of the workshop. 
