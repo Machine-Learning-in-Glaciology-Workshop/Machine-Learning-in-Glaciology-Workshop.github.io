@@ -7,17 +7,7 @@ list_title: Outdoor activities
 
 ### 2024 workshop
 
-This year's edition will be by be held in late summer, with chances of cold weather and even some snow.
-Please bring:
-
-- Head lamp/ flashlight (there are no streetlights)
-- Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
-- Sturdy hiking shoes.
-- Sun glasses
-- Warm clothes, hat, gloves, scarf etc
-- Make sure you have appropriate health insurance
-- Any personal medication
-- Special foods (no grocery store in Finse).
+We reserve Monday afternoon for outdoor activities (subject to change depending on weather condition). The area surrounding Finse are perfect for hikers and outdoor enthusiasts at any skill level. There are many trails and the closest outlet glacier of the ice cap can be reached in only one hour. This year's workshop will be held in late summer, with chances of cold weather and even some snow. Maker sure you bring suitable outdoor clothing and equipment for your prefered activities. A detailed packing list can be found on the [pratical info page](practical_info.md).
 
 ### 2023 workshop
 
