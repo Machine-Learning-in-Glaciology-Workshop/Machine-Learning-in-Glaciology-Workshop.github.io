@@ -7,7 +7,7 @@ list_title: Outdoor activities
 
 ### 2024 workshop
 
-We reserve Monday afternoon for outdoor activities (subject to change depending on weather condition). The area surrounding Finse are perfect for hikers and outdoor enthusiasts at any skill level. There are many trails and the closest outlet glacier of the ice cap can be reached in only one hour. This year's workshop will be held in late summer, with chances of cold weather and even some snow. Maker sure you bring suitable outdoor clothing and equipment for your prefered activities. A detailed packing list can be found on the [pratical info page](practical_info.md).
+We reserve Monday afternoon for outdoor activities (subject to change depending on weather condition). The area surrounding Finse are perfect for hikers and outdoor enthusiasts at any skill level. There are many trails and the closest outlet glacier of the ice cap can be reached in only one hour. This year's workshop will be held in late summer, with chances of cold weather and even some snow. Maker sure you bring suitable outdoor clothing and equipment for your prefered activities. A detailed packing list can be found on the [practical info page](practical_info.md).
 
 ### 2023 workshop
 
