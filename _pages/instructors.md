@@ -72,7 +72,7 @@ Ben is an Associate Professor at the University of Bergen. Ben’s research is f
 <img src="https://avatars.githubusercontent.com/u/39526081?v=4" width="150">
 </div>
 <div>
-Facundo (Facu) Sapienza is a PhD candidate in the Statistics department at the University of California, Berkeley. Facu’s work includes the use of neural differential equations in the modeling of ice flow, where sub-parts of the governing differential equation can be parametrized by physical-informed proxies; feature detection algorithms in ice sheets using remote sensing data; and machine learning methods applied to paleomagnetism and planetary sciences. He is also interested in the development and communication of open-source tools for scientific computing. 
+Facundo (Facu) Sapienza is a PhD candidate at the Department of Statistics at the University of California, Berkeley. Facu’s work includes the use of neural differential equations in the modeling of ice flow, where sub-parts of the governing differential equation can be parametrized by physical-informed proxies; feature detection algorithms in ice sheets using remote sensing data; and machine learning methods applied to paleomagnetism and planetary sciences. He is also interested in the development and communication of open-source tools for scientific computing. 
 </div>
 </div>
 <br>
