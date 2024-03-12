@@ -50,7 +50,7 @@ Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth 
 <br>
 <br>
 <br>
-<!---
+<!--
 # [Benjamin Aubrey Robson](https://www.uib.no/en/persons/Benjamin.Aubrey.Robson)
 <div>
 <div style="float: left; padding: 10px">
