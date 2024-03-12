@@ -8,7 +8,7 @@ list_title: Practical information
 
 
 ## Application and participant selection
-If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024. Accepted participants will be informed per email latest early May 2024. We will announce here when the selection has been made.
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024. Accepted participants will be informed per email latest early May 2024. We will announce here when the selection has been made. If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
 
 ## Who can participate?
 
@@ -19,7 +19,7 @@ We received 67 applications and selected 27 participants.
 
 ## Costs
 
-Costs for registration, housing (6 nights), all meals (breakfast, lunch, dinner and snacks/coffee) will be approximately 9.000 Norwegian Krones (~800€/850 US$). Travel grants are not available for foreign participants. 
+Costs for registration, housing (6 nights), all meals (breakfast, lunch, dinner and snacks/coffee) will be approximately 9.000 Norwegian Krones (~800€/850 US$). Travel grants are not available for foreign participants. Participants must book their own travel (including train tickets to and from Finse). We may have 1 or 2 partial travel grants available pending external support (We will know in June)
 
 <!---
 Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
@@ -55,7 +55,7 @@ The workshop starts at Finse on Friday, September 6 2024 at 18.00 and ends on Th
 All participants will be housed at the Finse Research Station (run by the Universities of Oslo and Bergen) which has a number of 2-4 bed rooms which participants will share. We will be the only group at the station at that time. A cook at the station will provide all meals for the workshop (dietary restrictions can be accommodated). 
 The first meal during the workshop will be dinner on Friday at 7pm. The last meal will be a lunchbox (Norwegian "matpakke") on Thursday. Please bring you own food and beverages for your travel journeys and stay if wished as there is no grocery store in Finse. The station has a small lecture hall and internet (4G eduroam and University of Oslo guest login). 
  
-## Practical information
+## Packing list
 
 Please bring:
 
@@ -75,7 +75,10 @@ Please bring:
 - Two Covid self-tests per person and masks.
 - Special foods and beverages (no grocery store in Finse).
 
-- <!---
+## Contact
+If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
+
+<!---
 - Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)
 - Boots suitable to walk in deep snow
 --->
