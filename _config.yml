@@ -25,13 +25,13 @@ header_pages:
   - _pages/instructors.md
   - _pages/practical_info.md
   - _pages/schedule.md
-  - _pages/outdoor.md
   - _pages/conduct.md
 
 include:
     - _pages
 
 exclude: 
+    - _pages/outdoor.md
     - .gitignore
     - docker-compose.yml
     - Gemfile
