@@ -32,6 +32,30 @@ An introduction on how to use the JupyterHub, Jupyter notebooks and using Git fo
 
 [ DIY ] Bring your own idea and data.
 
+## Outdoor activities
+
+### 2024 workshop
+
+We reserve Monday afternoon for outdoor activities (subject to change depending on weather condition). The area surrounding Finse are perfect for hikers and outdoor enthusiasts at any skill level. There are many trails and the closest outlet glacier of the ice cap can be reached in only one hour. This year's workshop will be held in late summer, with chances of cold weather and even some snow. Maker sure you bring suitable outdoor clothing and equipment for your prefered activities. A detailed packing list can be found on the [practical info page](practical_info.md).
+
+### 2023 workshop
+
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2016.jpg?raw=true" width="700"> <br>
+
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2019.jpg?raw=true" width="700"> <br>
+
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/Foto%20Apr%2020.jpg?raw=true" width="700"> <br>
+
+*Spring edition of the workshop, with plenty of outdoor snow activities.*
+
+### 2022 workshop
+
+<img src="assets/imgs/DJI_0607.jpg" width="700"> <br>
+
+<img src="assets/imgs/DJI_0608.jpg" width="700"> <br>
+
+*The outlet glacier Middalen, Hardangerjøkulen*
+
 <!---
 2023 edition - This year's edition will be by early spring, with still a lot of snow in Finse.
 We reserve one afternoon for self-organized outdoor activities, so please bring:
