@@ -36,17 +36,17 @@ In April there will be lots of snow and temperatures can be well below freezing 
 -->
  
 ## Transportation
-Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](www.vy.no). The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
+Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](https://www.vy.no). The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
  
 ### Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
 - Flytoget (flight train), fastest, ca. 20 minutes, 220 NOK
-- "Normal" train by [vy.no](www.vy.no), ca. 30 minutes, ~115 NOK. This train may actually get you faster to Oslo depending when you get there since it goes more often. Trains R10, R11 and L12 go to Oslo.
+- "Normal" train by [vy.no](https://www.vy.no), ca. 30 minutes, ~115 NOK. This train may actually get you faster to Oslo depending when you get there since it goes more often. Trains R10, R11 and L12 go to Oslo.
  
-You can also buy the tickets online ([vy.no](www.vy.no) or [flytoget](https://flytoget.no/en/)). From the ticket counter/machines it is a 2 minute walk to the platform (down the escalator).
+You can also buy the tickets online ([vy.no](https://www.vy.no) or [flytoget](https://flytoget.no/en/)). From the ticket counter/machines it is a 2 minute walk to the platform (down the escalator).
  
 ### Airport Flesland to Bergen
-Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
+Line 1 of the city light rail (“bybanen” in Norwegian) links the airport with central Bergen and the train station. Tickets cost 39 NOK and takes about 40 minutes. Tickets can be bought on the skyss app or on the machines at the station. There is also an [airport bus](https://flybussen.no) which costs 149 NOK one way and takes about 25 minutes. 
 
 ## Arrival / departure dates
 The workshop starts at Finse on Friday, 6 September 2024 at 6PM and ends on Thursday, 12 September 12 at 2pm. All participants are required to attend the entire course, i.e. it is not possible to come later or leave earlier.
