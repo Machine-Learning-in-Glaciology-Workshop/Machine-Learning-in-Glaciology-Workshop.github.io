@@ -8,7 +8,7 @@ list_title: Practical information
 
 
 ## Application and participant selection
-If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024, 11:59pm (in whatever time zone you are in). Accepted participants will be informed per email latest early May 2024 and we will announce here when the selection has been made. If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024, 11:59pm (in whatever time zone you are in). In case you consider working on an own project, please also fill this additional [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSdF26r323esdelNElP9jwbGX06B-vw6hx0733OX0DBgFgFvaQ/viewform). Accepted participants will be informed per email latest early May 2024 and we will announce here when the selection has been made. If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
 
 ## Who can participate?
 
