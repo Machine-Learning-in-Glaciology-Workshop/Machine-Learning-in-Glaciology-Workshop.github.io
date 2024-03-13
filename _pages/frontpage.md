@@ -49,8 +49,6 @@ The workshop is supported by the following institutions:
 
 <img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
 
-<img src="assets/imgs/uib.png" width="300"> <br>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg/1280px-Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg.png" width="200"> <br>
 
 <img src="assets/imgs/berkeley.png" width="200"> <br>
