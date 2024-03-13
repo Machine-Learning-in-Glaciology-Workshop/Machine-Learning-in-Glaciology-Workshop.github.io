@@ -32,7 +32,7 @@ A preliminary schedule can be found at the [schedule page](schedule.md)
 Workshop organizers and instructors: <br>
 <br>
 Jordi Bolibar (Université Grenoble Alpes) <br>
-Regine Hock (University of Oslo) <br>
+Regine Hock (University of Oslo & University of Alaska Fairbanks) <br>
 Konstantin Maslov (University of Twente) <br>
 Facundo Sapienza (UC Berkeley) <br>
 Thomas Schellenberger (University of Oslo) <br>
