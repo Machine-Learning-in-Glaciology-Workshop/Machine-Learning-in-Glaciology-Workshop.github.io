@@ -59,10 +59,11 @@ The workshop is supported by the following institutions:
 
 <br>
 
-The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action) and the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html).
+The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action), the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html) and [IACS](https://cryosphericsciences.org/).
 
 <img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
 <img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
+<img src="assets/imgs/iacs.png" width="350"> <br>
 
 <!---
 # Participant selection
