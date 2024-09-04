@@ -27,7 +27,7 @@ Accepted participants must pay a non-refundable registration fee of 400 NOK late
 
 ## Computing environment
 
-The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by [CloudFerro](https://cloudferro.com/en/) and applicants will have access to the EO data archive on [CREODIAS](https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available from [CryoCloud](https://cryointhecloud.com) with all data and dependencies already pre-installed.
+The workshop infrastructure for applications using GPUs (i.e. remote sensing) will be provided by [CloudFerro](https://cloudferro.com/en/) and applicants will have access to the EO data archive on [CREODIAS](https://creodias.eu/). For CPU-based applications (i.e. modelling) a JupyterHub will be available from OGGM hub with all data and dependencies already pre-installed.
 
 ## Location
 The workshop will be held at the [Finse Alpine Research Center](https://www.finse.uio.no/) run by Oslo and Bergen University. The station is located near the >70 km2 Hardangerjøkulen Ice Cap with one of the outlet glaciers 1-2 km away and well visible from the Research Station. Finse is a tiny mountain village with only a few houses located at the Oslo - Bergen railroad at 1,222 meters (4,009 ft) above sea level, about 250 m above the treeline. There is no road to Finse. Facilities are very limited, e.g., there is no grocery store, pharmacy or bank. Temperatures in Finse in September are around 0-15 degree Celcius, snow fall is possible. 
@@ -64,7 +64,7 @@ Please bring:
 - Name tag (e.g. from a previous conference)
 - Indoor shoes/slippers (there are no shoes allowed inside and the floor is quite cold)
 - Head lamp/ flashlight (there are no streetlights)
-- Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
+- Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a dirt road. Roller suitcases do not work
 - Sauna accessories
 - Sun glasses
 - Sun cream
