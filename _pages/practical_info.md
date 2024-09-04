@@ -8,7 +8,7 @@ list_title: Practical information
 
 
 ## Application and participant selection
-If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024, 11:59pm (in whatever time zone you are in). In case you consider working on an own project, please also fill this additional [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSdF26r323esdelNElP9jwbGX06B-vw6hx0733OX0DBgFgFvaQ/viewform) before the deadline. Accepted participants will be informed per email latest early May 2024 and we will announce here when the selection has been made. If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
+If you wish to participate in the workshop, please apply [HERE](https://docs.google.com/forms/d/e/1FAIpQLScBsO1FY7G9QWe3NMz7jMh979RxElithP54EkH52jhWBPUNpg/viewform) by 8 April 2024, 11:59pm (in whatever time zone you are in). In case you consider working on an own project, please also fill this additional [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSdF26r323esdelNElP9jwbGX06B-vw6hx0733OX0DBgFgFvaQ/viewform) before the deadline. Accepted participants will be informed per email latest early May 2024. If you have any questions, feel free to contact us at mlglaciology.workshop@gmail.com.
 
 ## Who can participate?
 
@@ -36,7 +36,7 @@ In April there will be lots of snow and temperatures can be well below freezing 
 -->
  
 ## Transportation
-Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](https://www.vy.no). The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 15-20 minute walk (ca. 1.5 km) along a small dirt road/hiking path to the research station. 
+Finse is only accessible by train, from either Oslo central station (Oslo S) (ca. 4.5 hrs; ca. 6 trains per day between ca. 6:00 and 23:00; ca. 600 NOK one way) or Bergen (ca. 2.5 hrs). Tickets to and from Finse can be bought at [vy.no](https://www.vy.no). The earlier you book the cheaper the tickets and tickets are sold out quickly. From Finse train station it is a 30 minute walk (ca. 2.1 km) along a small dirt road/hiking path to the research station. 
  
 ### Airport Gardermoen to Oslo
 From the airport you need to take a train to the central train station (Oslo S) where the train to Finse departs. Turn to the right when getting out of customs and walk about 50 m where you can buy the train ticket to Oslo at a counter or ticket machine. There are two independent companies selling tickets side by side:
@@ -72,7 +72,6 @@ Please bring:
 - Hiking or running shoes.
 - Make sure you have appropriate health insurance
 - Any personal medication
-- Two Covid self-tests per person and masks.
 - Special foods and beverages (no grocery store in Finse).
 
 ## Contact
@@ -84,4 +83,4 @@ If you have any questions, feel free to contact us at mlglaciology.workshop@gmai
 --->
 
 ## COVID
-Continued covid outbreaks at conferences and workshops have shown how disruptive it can be, with many people being sick and stuck abroad. Given the remote location of Finse combined with that we will be living close together, - depending on the situation then - we may require participants to adhere to certain COVID mitigation measures (regardless of official government rules). These may include wearing masks and/or testing before and during the workshop and will be mandatory for all participants.
+Continued covid outbreaks at conferences and workshops have shown how disruptive it can be, with many people being sick and stuck abroad. Given the remote location of Finse combined with that we will be living close together, - depending on the situation then - we may require participants to adhere to certain COVID mitigation measures (regardless of official government rules). These may include wearing masks and/or testing before and during the workshop.
